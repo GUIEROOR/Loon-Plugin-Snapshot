@@ -1,0 +1,1500 @@
+{
+  "changes": [
+    {
+      "file": "kelee-plugins/1.1.1.1.lpx",
+      "replacements": 4
+    },
+    {
+      "file": "kelee-plugins/12306_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/AliYunDrive_remove_ads.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "kelee-plugins/Amap_remove_ads.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "kelee-plugins/AppleWeatherEnhancer.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "kelee-plugins/Auto_Join_TF.lpx",
+      "replacements": 3
+    },
+    {
+      "file": "kelee-plugins/AutoHome_remove_ads.lpx",
+      "replacements": 6
+    },
+    {
+      "file": "kelee-plugins/BabyTree_remove_ads.lpx",
+      "replacements": 3
+    },
+    {
+      "file": "kelee-plugins/Baidu_input_method_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/BaiduSearchWebpage_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/Bilibili_remove_ads.lpx",
+      "replacements": 6
+    },
+    {
+      "file": "kelee-plugins/BiliComic_remove_ads.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "kelee-plugins/Bixin_remove_ads.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "kelee-plugins/BooHee_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/BoxJs.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/CaixinMedia_remove_ads.lpx",
+      "replacements": 6
+    },
+    {
+      "file": "kelee-plugins/Chelaile_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/ColorfulClouds_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/DjDuoDuo_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/Douyu_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/DubbingShow_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/Fileball_mount.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/FlyerTea_remove_ads.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "kelee-plugins/FollowRSS_checkin.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/HUPU_remove_ads.lpx",
+      "replacements": 4
+    },
+    {
+      "file": "kelee-plugins/iMaiCai_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/IPATool.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "kelee-plugins/IThome_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/iWallBiZhi_remove_ads.lpx",
+      "replacements": 3
+    },
+    {
+      "file": "kelee-plugins/JD_Price.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "kelee-plugins/JD_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/KebidaDushu_remove_ads.lpx",
+      "replacements": 9
+    },
+    {
+      "file": "kelee-plugins/KuaiKanComic_remove_ads.lpx",
+      "replacements": 4
+    },
+    {
+      "file": "kelee-plugins/MaiMai_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/MeituMYXJ_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/MKZ_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/mobileClouds_remove_ads.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "kelee-plugins/MotorFans_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/NeteaseCloudMusic_remove_ads.lpx",
+      "replacements": 6
+    },
+    {
+      "file": "kelee-plugins/NetEaseGodlike_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/NeteaseNews_remove_ads.lpx",
+      "replacements": 3
+    },
+    {
+      "file": "kelee-plugins/Node_detection_tool.lpx",
+      "replacements": 3
+    },
+    {
+      "file": "kelee-plugins/NodeLinkCheck.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/PICC_Insurance_remove_ads.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "kelee-plugins/PinDuoDuo_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/PuPuMall_remove_ads.lpx",
+      "replacements": 6
+    },
+    {
+      "file": "kelee-plugins/Qbb_remove_ads.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "kelee-plugins/Reddit_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/RedPaper_remove_ads.lpx",
+      "replacements": 12
+    },
+    {
+      "file": "kelee-plugins/RiskBird_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/Script-Hub.lpx",
+      "replacements": 4
+    },
+    {
+      "file": "kelee-plugins/ShoujiDesk_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/ShuQiCenterReader_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/smzdm_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/SodaMusic_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/Soul_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/Spotify_lyrics_translation.lpx",
+      "replacements": 7
+    },
+    {
+      "file": "kelee-plugins/Spotify_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/Sub-Store.lpx",
+      "replacements": 3
+    },
+    {
+      "file": "kelee-plugins/Taobao_remove_ads.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "kelee-plugins/Tencent_Video_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/Tieba_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/TV_Assistant_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/Uki_remove_ads.lpx",
+      "replacements": 4
+    },
+    {
+      "file": "kelee-plugins/Umetrip_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/VVebo_repair.lpx",
+      "replacements": 5
+    },
+    {
+      "file": "kelee-plugins/WARP_Node_Query.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/Weibo_remove_ads.lpx",
+      "replacements": 20
+    },
+    {
+      "file": "kelee-plugins/Weidian_remove_ads.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "kelee-plugins/Weixin_external_links_unlock.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/WexinMiniPrograms_Remove_ads.lpx",
+      "replacements": 12
+    },
+    {
+      "file": "kelee-plugins/WPS_checkin.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "kelee-plugins/XiaojukejiCharge_remove_ads.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/YouTube_remove_ads.lpx",
+      "replacements": 3
+    },
+    {
+      "file": "kelee-plugins/YouTubeSubtitlesTranslation.lpx",
+      "replacements": 12
+    },
+    {
+      "file": "kelee-plugins/scripts/25f3304e43083b31_Bilibili_proto_request_kokoryh.js",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/scripts/a731031ad0ea7948_Bilibili_proto_response_kokoryh.js",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/scripts/dbe13bf5df247a34_KebidaDushu_remove_ads.js",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/scripts/1f5f5d31e95743a0_NetworkEntryAndExitQueries.js",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/scripts/c31a995cdfc558be_VVebo_repair.js",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/scripts/a8704cadd8f8f036_YouTube_remove_ads_request.js",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/scripts/0e06084d89adaf0d_YouTube_remove_ads_response.js",
+      "replacements": 1
+    },
+    {
+      "file": "kelee-plugins/scripts/d1171e6520deae64_Rewrite-Parser.js",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/1.1.1.1.lpx",
+      "replacements": 5
+    },
+    {
+      "file": "loonlab-plugins/123Pan.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/Alipan.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/Amap.lpx",
+      "replacements": 17
+    },
+    {
+      "file": "loonlab-plugins/AppleOSMonitor.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/AppRaven.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/AppStoreMonitor.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/BaiduNetDisk.lpx",
+      "replacements": 8
+    },
+    {
+      "file": "loonlab-plugins/BaiduTieba.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/Bilibili.lpx",
+      "replacements": 7
+    },
+    {
+      "file": "loonlab-plugins/Bilibili_VIP.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/BlockAds.lpx",
+      "replacements": 73
+    },
+    {
+      "file": "loonlab-plugins/BodianMusic.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/BoxJs.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/ChinaMobile.lpx",
+      "replacements": 8
+    },
+    {
+      "file": "loonlab-plugins/CMS_Adblock.lpx",
+      "replacements": 20
+    },
+    {
+      "file": "loonlab-plugins/ColorfulCloudsWeatherPro.lpx",
+      "replacements": 4
+    },
+    {
+      "file": "loonlab-plugins/CookieTask.lpx",
+      "replacements": 14
+    },
+    {
+      "file": "loonlab-plugins/CoolApk.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/DingDongMaiCai.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/Ezviz.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/FanShu.lpx",
+      "replacements": 9
+    },
+    {
+      "file": "loonlab-plugins/GitHub.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/GLaDOS.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/Goofish.lpx",
+      "replacements": 7
+    },
+    {
+      "file": "loonlab-plugins/IPAManager.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/IPPure.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/IQIYI.lpx",
+      "replacements": 13
+    },
+    {
+      "file": "loonlab-plugins/iRingo_WeatherKit.lpx",
+      "replacements": 5
+    },
+    {
+      "file": "loonlab-plugins/IThome.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/iTunes.lpx",
+      "replacements": 4
+    },
+    {
+      "file": "loonlab-plugins/iTunes_baby.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/JingDong.lpx",
+      "replacements": 7
+    },
+    {
+      "file": "loonlab-plugins/KuwoMusic.lpx",
+      "replacements": 8
+    },
+    {
+      "file": "loonlab-plugins/Listenify.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/LoonGallery.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/MangoTV.lpx",
+      "replacements": 4
+    },
+    {
+      "file": "loonlab-plugins/MeiTuan.lpx",
+      "replacements": 8
+    },
+    {
+      "file": "loonlab-plugins/MiguVideo.lpx",
+      "replacements": 4
+    },
+    {
+      "file": "loonlab-plugins/MyBlockAds.lpx",
+      "replacements": 18
+    },
+    {
+      "file": "loonlab-plugins/NeteaseMusic.lpx",
+      "replacements": 15
+    },
+    {
+      "file": "loonlab-plugins/Netisp-x.lpx",
+      "replacements": 3
+    },
+    {
+      "file": "loonlab-plugins/NodeSeek.lpx",
+      "replacements": 4
+    },
+    {
+      "file": "loonlab-plugins/NodeTools.lpx",
+      "replacements": 4
+    },
+    {
+      "file": "loonlab-plugins/PinDuoDuo.lpx",
+      "replacements": 3
+    },
+    {
+      "file": "loonlab-plugins/Railway12306.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/Reddit.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/RedNote.lpx",
+      "replacements": 13
+    },
+    {
+      "file": "loonlab-plugins/RevenueCat.lpx",
+      "replacements": 8
+    },
+    {
+      "file": "loonlab-plugins/RevenueCat_baby.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/Script-Hub.lpx",
+      "replacements": 4
+    },
+    {
+      "file": "loonlab-plugins/smzdm.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/SodaMusic.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/Soul.lpx",
+      "replacements": 5
+    },
+    {
+      "file": "loonlab-plugins/Spotify.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/Spotify_CN.lpx",
+      "replacements": 6
+    },
+    {
+      "file": "loonlab-plugins/StartUpAds.lpx",
+      "replacements": 50
+    },
+    {
+      "file": "loonlab-plugins/StreamingMedia.lpx",
+      "replacements": 27
+    },
+    {
+      "file": "loonlab-plugins/Sub-Store.lpx",
+      "replacements": 3
+    },
+    {
+      "file": "loonlab-plugins/TaoBao.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/Telegram.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/TencentVideo.lpx",
+      "replacements": 5
+    },
+    {
+      "file": "loonlab-plugins/TestFlight.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/TestFlightMonitor.lpx",
+      "replacements": 3
+    },
+    {
+      "file": "loonlab-plugins/ThunderCloudDisk.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/UAPI_HotBoard.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/Umetrip.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/V2EX.lpx",
+      "replacements": 4
+    },
+    {
+      "file": "loonlab-plugins/Vistopia.lpx",
+      "replacements": 7
+    },
+    {
+      "file": "loonlab-plugins/VVebo.lpx",
+      "replacements": 4
+    },
+    {
+      "file": "loonlab-plugins/WebPage.lpx",
+      "replacements": 18
+    },
+    {
+      "file": "loonlab-plugins/WeChat.lpx",
+      "replacements": 25
+    },
+    {
+      "file": "loonlab-plugins/WeiBo.lpx",
+      "replacements": 22
+    },
+    {
+      "file": "loonlab-plugins/WeiBo_ddgksf2013.lpx",
+      "replacements": 5
+    },
+    {
+      "file": "loonlab-plugins/WeiDian.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/X_Web.lpx",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/XiaoxiangSupermarket.lpx",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/XPTV.lpx",
+      "replacements": 9
+    },
+    {
+      "file": "loonlab-plugins/YoukuVideo.lpx",
+      "replacements": 6
+    },
+    {
+      "file": "loonlab-plugins/YouTube.lpx",
+      "replacements": 3
+    },
+    {
+      "file": "loonlab-plugins/YouTube_CN.lpx",
+      "replacements": 11
+    },
+    {
+      "file": "loonlab-plugins/ZhiHu.lpx",
+      "replacements": 10
+    },
+    {
+      "file": "loonlab-plugins/scripts/3ab249cc57953b74_bdpan.ads.js",
+      "replacements": 3
+    },
+    {
+      "file": "loonlab-plugins/scripts/a9dfa36bade0cb9f_bdpan.unlock.js",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/scripts/cd0de38b21f0202b_revenuecat.vip.js",
+      "replacements": 3
+    },
+    {
+      "file": "loonlab-plugins/scripts/748e0252bc814886_v2ex.ads.js",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/scripts/be9d38e42edc223b_wechat_pay_coupon.js",
+      "replacements": 7
+    },
+    {
+      "file": "loonlab-plugins/scripts/24ecfac658a79dc4_APPheji_Revenuecat.js",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/scripts/20b305a28d49bb59_APPheji_iTunes.js",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/scripts/15cb41bf88f26d12_xjsp.js",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/scripts/1a270e11c684f528_Rewrite-Parser.beta.js",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/scripts/8cd9d9503c513067_wnbz.js",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/scripts/d0259eccb6540cbd_bdyy.js",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/scripts/08a0271cdd70af5e_mgtv.js",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/scripts/1516b344df50dd4c_listenify.js",
+      "replacements": 3
+    },
+    {
+      "file": "loonlab-plugins/scripts/61c7e3ef43f52508_kuwo.js",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/scripts/65334c9ee4906d4b_Reheji.js",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/scripts/513c55abed7a70a0_bdcloud.js",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/scripts/9b90f88aa44351af_iTunes.js",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/scripts/03cbe2ef9a910511_v2ex.js",
+      "replacements": 2
+    },
+    {
+      "file": "loonlab-plugins/scripts/30cea52b45a120e4_Flightradar24.js",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/scripts/8a4d8a86359999ad_dianyinglieshou.js",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/scripts/733ffc3b95115e5a_ltsst-ad.js",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/scripts/3b4e680772277ff3_dict-youdao-ad.js",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/scripts/bfec7c5588dc4bba_zhangshanggongjiao.js",
+      "replacements": 1
+    },
+    {
+      "file": "loonlab-plugins/scripts/07192064d88064b4_jd_price.js",
+      "replacements": 3
+    },
+    {
+      "file": "loonlab-plugins/scripts/cde55f2a5df278c0_jd_price.js",
+      "replacements": 3
+    }
+  ],
+  "unresolved": [
+    {
+      "group": "kelee-plugins",
+      "url": "https://kelee.one/Resource/JavaScript/EasyBike/mobileconfig-gateway.js",
+      "file": "e07674b64d614a13_mobileconfig-gateway.js",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://kelee.one/Resource/JavaScript/EasyBike/mobileconfig-gateway.js",
+      "references": [
+        {
+          "plugin": "EasyBike_remove_ads.lpx",
+          "line": 14
+        }
+      ],
+      "github_search_note": "No confirmed GitHub copy found; search results only reference the missing URL."
+    },
+    {
+      "group": "loonlab-plugins",
+      "url": "https://ddgksf2013.top/scripts/umetrip.ads.js",
+      "file": "d33dfbad90e630f2_umetrip.ads.js",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='ddgksf2013.top', port=443): Max retries exceeded with url: /scripts/umetrip.ads.js (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))",
+      "references": [
+        {
+          "plugin": "Umetrip.lpx",
+          "line": 27
+        }
+      ],
+      "github_search_note": "Same-name GitHub mirror contains HTML; another version contains additional modifications and was not substituted."
+    },
+    {
+      "group": "loonlab-plugins",
+      "url": "https://raw.githubusercontent.com/mist-whisper/Script/master/Xiaoyuzhou/Clean_home_feed.js",
+      "file": "ac47a81475d15e79_Clean_home_feed.js",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://raw.githubusercontent.com/mist-whisper/Script/master/Xiaoyuzhou/Clean_home_feed.js",
+      "references": [
+        {
+          "plugin": "CosmosFM.lpx",
+          "line": 39
+        }
+      ],
+      "github_search_note": "No confirmed copy found; original repository path history returned no commits."
+    }
+  ],
+  "external_dependency_candidates": [
+    {
+      "file": "kelee-plugins/scripts/a03090860fa53c95_response.bundle.js",
+      "line": 1,
+      "url": "https://raw.githubusercontent.com/NSRingo/QWeather-Location-Grid/refs/heads/main/data/qweather-china-city-list-grid.json"
+    },
+    {
+      "file": "kelee-plugins/scripts/a03090860fa53c95_response.bundle.js",
+      "line": 4,
+      "url": "https://api.waqi.info/api/feed/@${t}/aqi.json"
+    },
+    {
+      "file": "kelee-plugins/scripts/e4e07d3c1af75bf2_12306_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/header.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/37eca0771b704596_AliYunDrive_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/adrive.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/cbe221cf5dc04adb_BabyTree_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/babytree.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/c5a7ae3bef67c08a_BaiduSearchHomePage_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/Keywos/rule/main/JS/baiduindex.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/83bee2441664cf5a_Baidu_input_method_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/Keywos/rule/main/JS/bdsrf.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/1717ca508ca6ae8a_CaixinMedia_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/caixin.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/e7f07d055bf586ad_kelee.one_replace-body.js",
+      "line": 3,
+      "url": "https://raw.githubusercontent.com/mieqq/mieqq/master/replace-body.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/bd8242fb639da4d2_FollowRSS_checkin.js",
+      "line": 2,
+      "url": "https://github.com/chavyleung/scripts/blob/master/follow/follow.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/09e8dc8c196b43ef_HUPU_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/HP.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/691372cf8af55ba2_AppStoreAPI.js",
+      "line": 823,
+      "url": "https://raw.githubusercontent.com/xiaobailian67/Surge/refs/heads/main/plist-complete.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/691372cf8af55ba2_AppStoreAPI.js",
+      "line": 827,
+      "url": "https://raw.githubusercontent.com/xiaobailian67/Surge/refs/heads/main/SimpleExpressBeta.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/691372cf8af55ba2_AppStoreAPI.js",
+      "line": 832,
+      "url": "https://raw.githubusercontent.com/xiaobailian67/Surge/refs/heads/main/utils.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/3ba55f6f84e25afb_JD_Price.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/githubdulong/Script/master/jd_price.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/0c08b6ade279c82c_JD_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/jingdong.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/ca76a0fcc7d8aab8_NeteaseCloudMusic_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/Keywos/rule/main/script/wy/js/wyres.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/8fd25976d1ef634a_NeteaseNews_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/news163.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/a7b88cfe2324ba7a_NodeLinkCheck.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NodeLinkCheck/Script/NodeLinkCheck.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/ea8de3d9034591b6_PinDuoDuo_remove_ads.js",
+      "line": 7,
+      "url": "https://pfile.pddpic.com/mdkd/mdkd/_next/static/chunks/9410-b8806e870a26db7d.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/ea8de3d9034591b6_PinDuoDuo_remove_ads.js",
+      "line": 8,
+      "url": "https://kelee.one/Resource/JavaScript/PinDuoDuo/9410-b8806e870a26db7d.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/15d2e267fe35d511_PuPuMall_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/kelv1n1n/script/main/js/pp.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/a29fbc10f00cfc6e_RedPaper_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/RuCu6/Loon/main/Scripts/xiaohongshu.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/6659152f24c8df86_Soul_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/RuCu6/Loon/main/Scripts/soul.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/400696d7e33c6f7c_External_Lyrics_response.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/js/External.Lyrics.response.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/32070d2da1b77301_Spotify_request.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/DualSubs/Spotify/main/js/Spotify.request.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/5614aabf12b57e74_Spotify_response.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/DualSubs/Spotify/main/js/Spotify.response.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/7d09e791084c26bc_Translate_response.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/js/Translate.response.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/9d853d73b21f0772_Taobao_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/myBlockAds.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/9eda6ac7e368cfd9_AutoJoinTF.js",
+      "line": 4,
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/TestFlight/AutoJoinTF.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/f97aa9b42b0e3554_AutoMonitorTF.js",
+      "line": 7,
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/TestFlight/AutoMonitorTF.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/cd9b7c24339f2673_CaptureAccountToken.js",
+      "line": 3,
+      "url": "https://github.com/DecoAri/JavaScript/blob/main/Surge/TF_keys.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/cd9b7c24339f2673_CaptureAccountToken.js",
+      "line": 5,
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/TestFlight/AutoJoinTFKeys.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/3a02881f13f2cc05_tieba-proto.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/js/tieba-proto.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/d02959dd3e6428cf_WPS_checkin.js",
+      "line": 7,
+      "url": "https://cdn.jsdelivr.net/npm/fabric@latest/dist/fabric.min.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/d02959dd3e6428cf_WPS_checkin.js",
+      "line": 289,
+      "url": "https://cdn.jsdelivr.net/npm/dayjs/dayjs.min.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/d02959dd3e6428cf_WPS_checkin.js",
+      "line": 289,
+      "url": "https://cdn.jsdelivr.net/npm/crypto-js/md5.min.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/d02959dd3e6428cf_WPS_checkin.js",
+      "line": 289,
+      "url": "https://cdn.jsdelivr.net/npm/crypto-js/crypto-js.min.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/d02959dd3e6428cf_WPS_checkin.js",
+      "line": 289,
+      "url": "https://cdn.jsdelivr.net/npm/js-base64@3.7.5/base64.min.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/dc0eef05c006b1a8_Weibo_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/RuCu6/Loon/main/Scripts/weibo.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/6eff56246b9e4eaf_Weixin_external_links_unlock.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/zZPiglet/Task/master/asset/UnblockURLinWeChat.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/7d87b81a55287bda_YouTube_Composite_Subtitles_response.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/js/Composite.Subtitles.response.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/0422d9cd04431eb6_YouTube_Subtitles_Translate_response.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/js/Translate.response.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/add257f7b2c94ef8_YouTube_Subtitles_request.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/js/YouTube.request.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/a4c7172f020ef99f_YouTube_Subtitles_response.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/js/YouTube.response.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/9858236b73662cb2_mobileClouds_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cloud139.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/d1171e6520deae64_Rewrite-Parser.js",
+      "line": 625,
+      "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/body-rewrite.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/d1171e6520deae64_Rewrite-Parser.js",
+      "line": 2016,
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/KeLee_icon.json"
+    },
+    {
+      "file": "kelee-plugins/scripts/d1171e6520deae64_Rewrite-Parser.js",
+      "line": 2115,
+      "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-header.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/d1171e6520deae64_Rewrite-Parser.js",
+      "line": 2327,
+      "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/echo-response.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/71d45f38fd72e70b_script-hub.js",
+      "line": 1053,
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/KeLee_icon.json"
+    },
+    {
+      "file": "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 51,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/release/box.release.json"
+    },
+    {
+      "file": "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 418,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.caches.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 422,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.favapps.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 426,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 430,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.sessions.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 434,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.baks.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 438,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.boxjs.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 442,
+      "url": "https://github.com/chavyleung/scripts/blob/master/box/switcher/box.switcher.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 455,
+      "url": "https://github.com/chavyleung/scripts/blob/master/box/switcher/box.switcher.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 460,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 496,
+      "url": "https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 500,
+      "url": "https://raw.githubusercontent.com/dompling/Script/master/gist/restore.js"
+    },
+    {
+      "file": "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 504,
+      "url": "https://raw.githubusercontent.com/dompling/Script/master/gist/commit.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/18c919f8aa119238_request.bundle.js",
+      "line": 1,
+      "url": "https://raw.githubusercontent.com/NSRingo/QWeather-Location-Grid/refs/heads/main/data/qweather-china-city-list-grid.json"
+    },
+    {
+      "file": "loonlab-plugins/scripts/8ed351f2432b0e50_response.bundle.js",
+      "line": 1,
+      "url": "https://raw.githubusercontent.com/NSRingo/QWeather-Location-Grid/refs/heads/main/data/qweather-china-city-list-grid.json"
+    },
+    {
+      "file": "loonlab-plugins/scripts/8ed351f2432b0e50_response.bundle.js",
+      "line": 1,
+      "url": "https://api.waqi.info/api/feed/@${t}/aqi.json"
+    },
+    {
+      "file": "loonlab-plugins/scripts/9d853d73b21f0772_Taobao_remove_ads.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/myBlockAds.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/3a02881f13f2cc05_tieba-proto.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/js/tieba-proto.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/6eff56246b9e4eaf_Weixin_external_links_unlock.js",
+      "line": 2,
+      "url": "https://raw.githubusercontent.com/zZPiglet/Task/master/asset/UnblockURLinWeChat.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/e44a42e75ef3e603_AppRaven.js",
+      "line": 9,
+      "url": "https://raw.githubusercontent.com/Yu9191/Rewrite/main/AppRaven.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/b0e68ae8eff482d6_replace-body.js",
+      "line": 3,
+      "url": "https://raw.githubusercontent.com/mieqq/mieqq/master/replace-body.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/83a91da3dde88002_WeiboCookieTask.js",
+      "line": 15,
+      "url": "https://github.com/Sunert/Script/blob/master/Task/weibo.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/83a91da3dde88002_WeiboCookieTask.js",
+      "line": 22,
+      "url": "https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/weibo_sign.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/83a91da3dde88002_WeiboCookieTask.js",
+      "line": 23,
+      "url": "https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/weibo_sign.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/83a91da3dde88002_WeiboCookieTask.js",
+      "line": 32,
+      "url": "https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/weibo_sign.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/83a91da3dde88002_WeiboCookieTask.js",
+      "line": 33,
+      "url": "https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/weibo_sign.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/da21a2b5a74234a1_GLaDOS.checkin.js",
+      "line": 3,
+      "url": "https://raw.githubusercontent.com/curtinp118/Scripthub/main/scripts/glados/glados.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d7d2d636a076e0b3_AppleStoreAPI.js",
+      "line": 823,
+      "url": "https://raw.githubusercontent.com/xiaobailian67/Surge/refs/heads/main/plist-complete.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d7d2d636a076e0b3_AppleStoreAPI.js",
+      "line": 827,
+      "url": "https://raw.githubusercontent.com/xiaobailian67/Surge/refs/heads/main/SimpleExpressBeta.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d7d2d636a076e0b3_AppleStoreAPI.js",
+      "line": 832,
+      "url": "https://raw.githubusercontent.com/xiaobailian67/Surge/refs/heads/main/utils.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/9efda76e49d8d158_JingDong.price.js",
+      "line": 9,
+      "url": "https://raw.githubusercontent.com/githubdulong/Script/master/MmmCK.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/9efda76e49d8d158_JingDong.price.js",
+      "line": 20,
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/echarts/5.4.3/echarts.min.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d005ed7f834f34fb_AutoJoinTF.js",
+      "line": 5,
+      "url": "https://raw.githubusercontent.com/DecoAri/JavaScript/main/Surge/Auto_join_TF.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d005ed7f834f34fb_AutoJoinTF.js",
+      "line": 10,
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/TestFlight/AutoJoinTF.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/43261fd9b0eb9d1c_AutoJoinTFKeys.js",
+      "line": 5,
+      "url": "https://github.com/DecoAri/JavaScript/blob/main/Surge/TF_keys.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/1baea04de36b9d08_AutoMonitorTF.js",
+      "line": 7,
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/TestFlight/AutoMonitorTF.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/33e4f462e226342f_iTunes.ddgksf2013.js",
+      "line": 14,
+      "url": "https://ddgksf2013.top/scripts/buyitunes.vip.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/33e4f462e226342f_iTunes.ddgksf2013.js",
+      "line": 24,
+      "url": "https://ddgksf2013.top/scripts/buyitunes.vip.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/1a270e11c684f528_Rewrite-Parser.beta.js",
+      "line": 731,
+      "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/body-rewrite.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/1a270e11c684f528_Rewrite-Parser.beta.js",
+      "line": 4592,
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/KeLee_icon.json"
+    },
+    {
+      "file": "loonlab-plugins/scripts/1a270e11c684f528_Rewrite-Parser.beta.js",
+      "line": 4691,
+      "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-header.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/1a270e11c684f528_Rewrite-Parser.beta.js",
+      "line": 4821,
+      "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/echo-response.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/1a270e11c684f528_Rewrite-Parser.beta.js",
+      "line": 4990,
+      "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/echo-response.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/bb6707990055d08a_script-hub.beta.js",
+      "line": 1060,
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/KeLee_icon.json"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7e513b7176785a58_replace-body.js",
+      "line": 3,
+      "url": "https://raw.githubusercontent.com/mieqq/mieqq/master/replace-body.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d9e008ff89a1e56e_spider.js",
+      "line": 4,
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d9e008ff89a1e56e_spider.js",
+      "line": 5,
+      "url": "https://cdn.jsdelivr.net/gh/Yuheng0101/X@main/Utils/cheerio.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d9e008ff89a1e56e_spider.js",
+      "line": 6,
+      "url": "https://cdn.jsdelivr.net/gh/Yuheng0101/X@main/Utils/Buffer.min.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 51,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/release/box.release.json"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 418,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.caches.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 422,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.favapps.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 426,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 430,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.sessions.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 434,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.baks.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 438,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.boxjs.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 442,
+      "url": "https://github.com/chavyleung/scripts/blob/master/box/switcher/box.switcher.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 455,
+      "url": "https://github.com/chavyleung/scripts/blob/master/box/switcher/box.switcher.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 460,
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 496,
+      "url": "https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 500,
+      "url": "https://raw.githubusercontent.com/dompling/Script/master/gist/restore.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js",
+      "line": 504,
+      "url": "https://raw.githubusercontent.com/dompling/Script/master/gist/commit.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/83548671721e60b9_12306.js",
+      "line": 14,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/12306.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/ba7faf969de23835_555Ad.js",
+      "line": 15,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/555Ad.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/37abf1298e6e0216_ahfs.js",
+      "line": 15,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/ahfs.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/2195b2e6c0da8be6_caixinads.js",
+      "line": 20,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/caixinads.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d13ceb0fc9037940_coolapk.js",
+      "line": 19,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d13ceb0fc9037940_coolapk.js",
+      "line": 21,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d13ceb0fc9037940_coolapk.js",
+      "line": 23,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d13ceb0fc9037940_coolapk.js",
+      "line": 25,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d13ceb0fc9037940_coolapk.js",
+      "line": 27,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d13ceb0fc9037940_coolapk.js",
+      "line": 31,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d701bdf284962a64_iqiyi_open_ads.js",
+      "line": 22,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/iqiyi_open_ads.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7489fedef172b18b_jd_json.js",
+      "line": 11,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/jd_json.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/7489fedef172b18b_jd_json.js",
+      "line": 12,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/jd_json.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/e18f87d1fe86843b_shunfeng_json.js",
+      "line": 10,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/shunfeng_json.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/172b465b7b8acde9_stay.js",
+      "line": 16,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/stay.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/0c4d719aeaace854_weixin110.js",
+      "line": 4,
+      "url": "https://raw.githubusercontent.com/zZPiglet/Task/master/asset/UnblockURLinWeChat.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/0c4d719aeaace854_weixin110.js",
+      "line": 8,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/weixin110.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/d2d33aef1bb05f4b_zhihu_openads.js",
+      "line": 22,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/zhihu_openads.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/e6130f443881759c_mlxx.js",
+      "line": 7,
+      "url": "https://github.com/fmz200/wool_scripts/raw/main/Scripts/mlxx/mlxx.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/bbc2d768f38a8418_baiduNoRedirect.js",
+      "line": 2,
+      "url": "https://github.com/app2smile/rules/blob/master/js/baidu-no-redirect.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/bbc2d768f38a8418_baiduNoRedirect.js",
+      "line": 5,
+      "url": "https://gitlab.com/RuCu6/QuanX/-/raw/main/Scripts/baidu/baiduNoRedirect.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/24bc13763e144e10_52ywy.js",
+      "line": 6,
+      "url": "https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/52ywy.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/24bc13763e144e10_52ywy.js",
+      "line": 16,
+      "url": "https://gist.githubusercontent.com/Yu9191/0c88077bc4251d0803810db88334d336/raw/r2-dict.json"
+    },
+    {
+      "file": "loonlab-plugins/scripts/20f454d55c70ecb7_zimuquan.js",
+      "line": 7,
+      "url": "https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/zimuquan.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/06cb926a57e55416_wechat.js",
+      "line": 3,
+      "url": "https://raw.githubusercontent.com/zZPiglet/Task/master/asset/UnblockURLinWeChat.js"
+    },
+    {
+      "file": "loonlab-plugins/scripts/06cb926a57e55416_wechat.js",
+      "line": 7,
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/weixin110.js"
+    }
+  ]
+}

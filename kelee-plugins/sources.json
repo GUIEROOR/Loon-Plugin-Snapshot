@@ -1,0 +1,1897 @@
+[
+  {
+    "url": "https://github.com/NSRingo/WeatherKit/releases/download/v3.1.0/response.bundle.js",
+    "file": "a03090860fa53c95_response.bundle.js",
+    "status": "ok",
+    "bytes": 240960,
+    "sha256": "e7c75725d67c4e8f78d3fdc003481762a377c624ae89bba64b23b2cb5ea9f342",
+    "references": [
+      {
+        "plugin": "AppleWeatherEnhancer.lpx",
+        "line": 31
+      },
+      {
+        "plugin": "AppleWeatherEnhancer.lpx",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/sub-store-org/Sub-Store/releases/latest/download/cron-sync-artifacts.min.js",
+    "file": "504806e4bf45ae11_cron-sync-artifacts.min.js",
+    "status": "ok",
+    "bytes": 1283898,
+    "sha256": "264d52d7e56650e45588b953b8facb00ab84502b833a3ddf8c4e4ee394d26307",
+    "references": [
+      {
+        "plugin": "Sub-Store.lpx",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-0.min.js",
+    "file": "7ded59db32c0c77c_sub-store-0.min.js",
+    "status": "ok",
+    "bytes": 1333524,
+    "sha256": "e7bfcaf78bc4ec2354e8a545211f8794f3137e8a91eea5cd7be7386cdf3a2f09",
+    "references": [
+      {
+        "plugin": "Sub-Store.lpx",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-1.min.js",
+    "file": "966e5950297fd9c8_sub-store-1.min.js",
+    "status": "ok",
+    "bytes": 1322427,
+    "sha256": "5818bc626d203a6bcedbe82d84a87fb25d0d917f78457beb2aa60ac5f48dc2b9",
+    "references": [
+      {
+        "plugin": "Sub-Store.lpx",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JQLang/Amap/search_poi_detail.jq",
+    "file": "e43b959eee93e55f_search_poi_detail.jq",
+    "status": "ok",
+    "bytes": 11158,
+    "sha256": "7def102b752835f8cbe63167b75dbe19997cb532f7e35d8283de4eeb5f2d4eb6",
+    "references": [
+      {
+        "plugin": "Amap_remove_ads.lpx",
+        "line": 52
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JQLang/Amap/updatable.jq",
+    "file": "ac2b37e379a662f9_updatable.jq",
+    "status": "ok",
+    "bytes": 10810,
+    "sha256": "dba0888e3e4491e282ce58e547e3a4125f6fd96057d0d5eaf878450fa40bd647",
+    "references": [
+      {
+        "plugin": "Amap_remove_ads.lpx",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JQLang/Bilibili/mine_Bilibili_remove_ads.jq",
+    "file": "b7e3dc5217d4737d_mine_Bilibili_remove_ads.jq",
+    "status": "ok",
+    "bytes": 7635,
+    "sha256": "e99d5ea7038cb973996a04fde3cd9a2840dbba6dcfbfb437c00cb383f53fda2f",
+    "references": [
+      {
+        "plugin": "Bilibili_remove_ads.lpx",
+        "line": 56
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JQLang/Bilibili/tab_Bilibili_remove_ads.jq",
+    "file": "7f856de9b57d6400_tab_Bilibili_remove_ads.jq",
+    "status": "ok",
+    "bytes": 2001,
+    "sha256": "69b4b2129be425dfa26fe7f06786a8710129c2ce5702fdcd36d90f842aea4dec",
+    "references": [
+      {
+        "plugin": "Bilibili_remove_ads.lpx",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JQLang/Reddit/Reddit_remove_ads.jq",
+    "file": "cb95c77320987f7e_Reddit_remove_ads.jq",
+    "status": "ok",
+    "bytes": 856,
+    "sha256": "55ff9cba1efa934421f4a9cf2afcc100e43efd5eb557115b8764fc39ae0ca99c",
+    "references": [
+      {
+        "plugin": "Reddit_remove_ads.lpx",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JQLang/smzdm/home_smzdm_remove_ads.jq",
+    "file": "b902933cc6416975_home_smzdm_remove_ads.jq",
+    "status": "ok",
+    "bytes": 1874,
+    "sha256": "3de9198beea48ef56bd0cb948fbfc6ca592348e0d3633a75d422ef7a63f08b0a",
+    "references": [
+      {
+        "plugin": "smzdm_remove_ads.lpx",
+        "line": 25
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/12306/12306_remove_ads.js",
+    "file": "e4e07d3c1af75bf2_12306_remove_ads.js",
+    "status": "ok",
+    "bytes": 1890,
+    "sha256": "22a825d8149d952dd9c6c1c5c96fa3f830a0ebba975f8fc402f55ad1f40d4a8a",
+    "references": [
+      {
+        "plugin": "12306_remove_ads.lpx",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/AliYunDrive/AliYunDrive_remove_ads.js",
+    "file": "37eca0771b704596_AliYunDrive_remove_ads.js",
+    "status": "ok",
+    "bytes": 1204,
+    "sha256": "4909ecde19541ad5e83be296e87eab83e62ede4e710fceee3d59dc4cf11f3e38",
+    "references": [
+      {
+        "plugin": "AliYunDrive_remove_ads.lpx",
+        "line": 22
+      },
+      {
+        "plugin": "AliYunDrive_remove_ads.lpx",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/AutoHome/AutoHome_remove_ads.js",
+    "file": "3a6c3cc31e79d9bc_AutoHome_remove_ads.js",
+    "status": "ok",
+    "bytes": 2505,
+    "sha256": "9ef33d57454935592032fe7d204a9fee555883b49f86d938942719d95a2035dd",
+    "references": [
+      {
+        "plugin": "AutoHome_remove_ads.lpx",
+        "line": 53
+      },
+      {
+        "plugin": "AutoHome_remove_ads.lpx",
+        "line": 55
+      },
+      {
+        "plugin": "AutoHome_remove_ads.lpx",
+        "line": 57
+      },
+      {
+        "plugin": "AutoHome_remove_ads.lpx",
+        "line": 59
+      },
+      {
+        "plugin": "AutoHome_remove_ads.lpx",
+        "line": 61
+      },
+      {
+        "plugin": "AutoHome_remove_ads.lpx",
+        "line": 63
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/BabyTree/BabyTree_remove_ads.js",
+    "file": "cbe221cf5dc04adb_BabyTree_remove_ads.js",
+    "status": "ok",
+    "bytes": 2344,
+    "sha256": "0159119e7b367400b85f8814eae93b5030f00bb51a5676e97c03056f3bca70ab",
+    "references": [
+      {
+        "plugin": "BabyTree_remove_ads.lpx",
+        "line": 21
+      },
+      {
+        "plugin": "BabyTree_remove_ads.lpx",
+        "line": 22
+      },
+      {
+        "plugin": "BabyTree_remove_ads.lpx",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/BaiduSearch/BaiduSearchHomePage_remove_ads.js",
+    "file": "c5a7ae3bef67c08a_BaiduSearchHomePage_remove_ads.js",
+    "status": "ok",
+    "bytes": 23070,
+    "sha256": "a135cb358571270371159b1c1539e555f51c7e53d6531afc6b3687796df0b0d4",
+    "references": [
+      {
+        "plugin": "BaiduSearchWebpage_remove_ads.lpx",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Baidu_input_method/Baidu_input_method_remove_ads.js",
+    "file": "83bee2441664cf5a_Baidu_input_method_remove_ads.js",
+    "status": "ok",
+    "bytes": 1418,
+    "sha256": "4401933fa39f97c72711cf075c9caa8506be46e3fdbf0572d96ab9493aaf623b",
+    "references": [
+      {
+        "plugin": "Baidu_input_method_remove_ads.lpx",
+        "line": 24
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/BiliComic/BiliComic_remove_ads.js",
+    "file": "d61358f358cf63a8_BiliComic_remove_ads.js",
+    "status": "ok",
+    "bytes": 1427,
+    "sha256": "a44f3d9f44b79940c1d75561a3e4ddc1a57a6a989b6c39f7d97e48db4245224d",
+    "references": [
+      {
+        "plugin": "BiliComic_remove_ads.lpx",
+        "line": 27
+      },
+      {
+        "plugin": "BiliComic_remove_ads.lpx",
+        "line": 28
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Bilibili/Bilibili_json_kokoryh.js",
+    "file": "7ec08bb6fd7ce6af_Bilibili_json_kokoryh.js",
+    "status": "ok",
+    "bytes": 19427,
+    "sha256": "521a3974d1a485daf5750bc7b986ee5b64325480ed80da2e7d90265f4ad57090",
+    "references": [
+      {
+        "plugin": "Bilibili_remove_ads.lpx",
+        "line": 74
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Bilibili/Bilibili_proto_request_kokoryh.js",
+    "file": "25f3304e43083b31_Bilibili_proto_request_kokoryh.js",
+    "status": "ok",
+    "bytes": 63468,
+    "sha256": "1b7e1d51efd960b10a22ea322630e72ecee646f2fdaad8a097c9e530fde1a857",
+    "references": [
+      {
+        "plugin": "Bilibili_remove_ads.lpx",
+        "line": 68
+      },
+      {
+        "plugin": "Bilibili_remove_ads.lpx",
+        "line": 70
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Bilibili/Bilibili_proto_response_kokoryh.js",
+    "file": "a731031ad0ea7948_Bilibili_proto_response_kokoryh.js",
+    "status": "ok",
+    "bytes": 97466,
+    "sha256": "e4a8426cffbfca85c78286126a10813051a2d1aeed018119bbabe3db5da85728",
+    "references": [
+      {
+        "plugin": "Bilibili_remove_ads.lpx",
+        "line": 72
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Bixin/common_tab.js",
+    "file": "30db55816f59864c_common_tab.js",
+    "status": "ok",
+    "bytes": 185530,
+    "sha256": "779cce9e7ca26323f8965b07412056e3f6d825b7a0e99e5d5707ebf24d6b898c",
+    "references": [
+      {
+        "plugin": "Bixin_remove_ads.lpx",
+        "line": 46
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Bixin/my_page.js",
+    "file": "fd6b8721676ce2df_my_page.js",
+    "status": "ok",
+    "bytes": 185527,
+    "sha256": "06eb371ea79bae01f6f0bcced91af0cd534312e5266586f17aa94bd69958f7ee",
+    "references": [
+      {
+        "plugin": "Bixin_remove_ads.lpx",
+        "line": 48
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/BooHee/BooHee_remove_ads.js",
+    "file": "28f4dc541f88bac8_BooHee_remove_ads.js",
+    "status": "ok",
+    "bytes": 363,
+    "sha256": "8b044d530e905fd358dbe155ec75aa8ee460450bed5bf8634556716d544ff388",
+    "references": [
+      {
+        "plugin": "BooHee_remove_ads.lpx",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/CaixinMedia/CaixinMedia_remove_ads.js",
+    "file": "1717ca508ca6ae8a_CaixinMedia_remove_ads.js",
+    "status": "ok",
+    "bytes": 2450,
+    "sha256": "591a0e4aa1e5b6efb60a1d88fb9ef04e2d372cc4b2f3a8cc7d40f8abd6622ca5",
+    "references": [
+      {
+        "plugin": "CaixinMedia_remove_ads.lpx",
+        "line": 24
+      },
+      {
+        "plugin": "CaixinMedia_remove_ads.lpx",
+        "line": 26
+      },
+      {
+        "plugin": "CaixinMedia_remove_ads.lpx",
+        "line": 28
+      },
+      {
+        "plugin": "CaixinMedia_remove_ads.lpx",
+        "line": 30
+      },
+      {
+        "plugin": "CaixinMedia_remove_ads.lpx",
+        "line": 32
+      },
+      {
+        "plugin": "CaixinMedia_remove_ads.lpx",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Chelaile/Chelaile_remove_ads.js",
+    "file": "25d033d39f66a286_Chelaile_remove_ads.js",
+    "status": "ok",
+    "bytes": 2921,
+    "sha256": "80b889b0fd9f45da4b3327d57bb9ad1809958c68478d1bdc4cc5a62ef9e69919",
+    "references": [
+      {
+        "plugin": "Chelaile_remove_ads.lpx",
+        "line": 34
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/ColorfulClouds/ColorfulClouds_remove_ads.js",
+    "file": "b42c74e37c3cad92_ColorfulClouds_remove_ads.js",
+    "status": "ok",
+    "bytes": 1044,
+    "sha256": "51d20e0cd5f134603f541fdb7a05a3e9a259b8e3adece8347b90df237687c0a1",
+    "references": [
+      {
+        "plugin": "ColorfulClouds_remove_ads.lpx",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/CommonScript/replace-body.js",
+    "file": "e7f07d055bf586ad_kelee.one_replace-body.js",
+    "status": "ok",
+    "references": [
+      {
+        "plugin": "Tencent_Video_remove_ads.lpx",
+        "line": 35
+      }
+    ],
+    "original_error": "404 Client Error: Not Found for url: https://kelee.one/Resource/JavaScript/CommonScript/replace-body.js",
+    "bytes": 1732,
+    "sha256": "59f1a0606ab1c83f7bf87ed79dae175c65c2c5e81351b85a00a98e9e24574983",
+    "download_url": "https://raw.githubusercontent.com/ifflagged/Romeo/35780956646490c263f17f76c119f5e3e5519ad0/Modules/JavaScript/Kelee/Tencent_Video_remove_ads/kelee.one_replace-body.js",
+    "source_type": "third_party_mirror"
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/DjDuoDuo/DjDuoDuo_remove_ads.js",
+    "file": "35a3b12ec3a7d681_DjDuoDuo_remove_ads.js",
+    "status": "ok",
+    "bytes": 213381,
+    "sha256": "6357b9dd30b48b64e24d206763e8276ac28b4e2a88c0435116eda42fdecda9e6",
+    "references": [
+      {
+        "plugin": "DjDuoDuo_remove_ads.lpx",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Douyu/Douyu_remove_ads.js",
+    "file": "c2037a6bd2937364_Douyu_remove_ads.js",
+    "status": "ok",
+    "bytes": 1207,
+    "sha256": "92c8426b0229a89e22277c7f8ca1ff71ad1900e8786cb9f24845491393612b1a",
+    "references": [
+      {
+        "plugin": "Douyu_remove_ads.lpx",
+        "line": 30
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/DubbingShow/DubbingShow_remove_ads.js",
+    "file": "694792f21aae2fcb_DubbingShow_remove_ads.js",
+    "status": "ok",
+    "bytes": 691,
+    "sha256": "00b312e3ed559cfcda15cb43e637c94d6293ad3cb34b2c5d23d9bd330668fe52",
+    "references": [
+      {
+        "plugin": "DubbingShow_remove_ads.lpx",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/EasyBike/mobileconfig-gateway.js",
+    "file": "e07674b64d614a13_mobileconfig-gateway.js",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://kelee.one/Resource/JavaScript/EasyBike/mobileconfig-gateway.js",
+    "references": [
+      {
+        "plugin": "EasyBike_remove_ads.lpx",
+        "line": 14
+      }
+    ],
+    "github_search_note": "No confirmed GitHub copy found; search results only reference the missing URL."
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Fileball/Fileball_mount.js",
+    "file": "e0e813af9e46a221_Fileball_mount.js",
+    "status": "ok",
+    "bytes": 6655,
+    "sha256": "3f45ed0407ce328a2dc1ad0402c88343470371e4be23823efb218ae291e5acd6",
+    "references": [
+      {
+        "plugin": "Fileball_mount.lpx",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/FlyerTea/FlyerTea_remove_ads.js",
+    "file": "dd1adf0ea56d8040_FlyerTea_remove_ads.js",
+    "status": "ok",
+    "bytes": 1660,
+    "sha256": "096bf18999cb7071083a09b8a054087fb91a9872753ed5b64cafb151c0eee087",
+    "references": [
+      {
+        "plugin": "FlyerTea_remove_ads.lpx",
+        "line": 20
+      },
+      {
+        "plugin": "FlyerTea_remove_ads.lpx",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/FollowRSS/FollowRSS_checkin.js",
+    "file": "bd8242fb639da4d2_FollowRSS_checkin.js",
+    "status": "ok",
+    "bytes": 10581,
+    "sha256": "531fdce5c2f18b87811f029561063f6971a1b7e4658e431c0aba122d03d1727f",
+    "references": [
+      {
+        "plugin": "FollowRSS_checkin.lpx",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/HUPU/HUPU_remove_ads.js",
+    "file": "09e8dc8c196b43ef_HUPU_remove_ads.js",
+    "status": "ok",
+    "bytes": 1457,
+    "sha256": "43ec9962925a76ca49cf1491a73430bd1b7fc3ef206de50eb0083c75b69865a6",
+    "references": [
+      {
+        "plugin": "HUPU_remove_ads.lpx",
+        "line": 24
+      },
+      {
+        "plugin": "HUPU_remove_ads.lpx",
+        "line": 25
+      },
+      {
+        "plugin": "HUPU_remove_ads.lpx",
+        "line": 26
+      },
+      {
+        "plugin": "HUPU_remove_ads.lpx",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/IPATool/AppStoreAPI.js",
+    "file": "691372cf8af55ba2_AppStoreAPI.js",
+    "status": "ok",
+    "bytes": 31485,
+    "sha256": "9dac5e77b13a745a4db05c9752ce338fbd132c3166bca3be7742b0c44fc8479d",
+    "references": [
+      {
+        "plugin": "IPATool.lpx",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/IPATool/Installer.js",
+    "file": "9f16fcadb82d6ca6_Installer.js",
+    "status": "ok",
+    "bytes": 1149,
+    "sha256": "1c50b23138e1ded6f3279149b2a7c642e3d2b8258feaeff618d558ebd2b6d9d4",
+    "references": [
+      {
+        "plugin": "IPATool.lpx",
+        "line": 16
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/IThome/IThome_remove_ads.js",
+    "file": "a31b4fde903aaa11_IThome_remove_ads.js",
+    "status": "ok",
+    "error": "HTTPSConnectionPool(host='kelee.one', port=443): Max retries exceeded with url: /Resource/JavaScript/IThome/IThome_remove_ads.js (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))",
+    "bytes": 3099,
+    "sha256": "3008c1a2831ec084c07e44c2219ee8776aefb45a9b4053da675fde6701caa141",
+    "references": [
+      {
+        "plugin": "IThome_remove_ads.lpx",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/JD/JD_Price.js",
+    "file": "3ba55f6f84e25afb_JD_Price.js",
+    "status": "ok",
+    "bytes": 30160,
+    "sha256": "fcdcaf544e4e2335050a1bbf66efb69c01c91574b763810478f47b31e2961dd3",
+    "references": [
+      {
+        "plugin": "JD_Price.lpx",
+        "line": 14
+      },
+      {
+        "plugin": "JD_Price.lpx",
+        "line": 16
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/JD/JD_remove_ads.js",
+    "file": "0c08b6ade279c82c_JD_remove_ads.js",
+    "status": "ok",
+    "bytes": 6827,
+    "sha256": "c029c4151fe73b3a6f660d0933393d1b6afd1969651f01a88d5a357abfdd7cb4",
+    "references": [
+      {
+        "plugin": "JD_remove_ads.lpx",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/KebidaDushu/KebidaDushu_remove_ads.js",
+    "file": "dbe13bf5df247a34_KebidaDushu_remove_ads.js",
+    "status": "ok",
+    "bytes": 7591,
+    "sha256": "dbd6c116bf2540554ae3b452b1483c2ce3cc9ceee896ffb56f6f0372ff0089d2",
+    "references": [
+      {
+        "plugin": "KebidaDushu_remove_ads.lpx",
+        "line": 25
+      },
+      {
+        "plugin": "KebidaDushu_remove_ads.lpx",
+        "line": 26
+      },
+      {
+        "plugin": "KebidaDushu_remove_ads.lpx",
+        "line": 27
+      },
+      {
+        "plugin": "KebidaDushu_remove_ads.lpx",
+        "line": 28
+      },
+      {
+        "plugin": "KebidaDushu_remove_ads.lpx",
+        "line": 29
+      },
+      {
+        "plugin": "KebidaDushu_remove_ads.lpx",
+        "line": 30
+      },
+      {
+        "plugin": "KebidaDushu_remove_ads.lpx",
+        "line": 31
+      },
+      {
+        "plugin": "KebidaDushu_remove_ads.lpx",
+        "line": 32
+      },
+      {
+        "plugin": "KebidaDushu_remove_ads.lpx",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/KuaiKanComic/KuaiKanComic_remove_ads.js",
+    "file": "5d403a80285ee588_KuaiKanComic_remove_ads.js",
+    "status": "ok",
+    "bytes": 2424,
+    "sha256": "e9f4e623df954abbaa76b3e67059b370d7df97e71c16067fc5014d2c1a81a911",
+    "references": [
+      {
+        "plugin": "KuaiKanComic_remove_ads.lpx",
+        "line": 51
+      },
+      {
+        "plugin": "KuaiKanComic_remove_ads.lpx",
+        "line": 53
+      },
+      {
+        "plugin": "KuaiKanComic_remove_ads.lpx",
+        "line": 55
+      },
+      {
+        "plugin": "KuaiKanComic_remove_ads.lpx",
+        "line": 57
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/MKZ/MKZ_remove_ads.js",
+    "file": "34857e13ac47a2ad_MKZ_remove_ads.js",
+    "status": "ok",
+    "bytes": 249,
+    "sha256": "b3d570b03982fd706501218fdd9e6371f5bf0dd4d9e764e26a5accc4a7b6820b",
+    "references": [
+      {
+        "plugin": "MKZ_remove_ads.lpx",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/MaiMai/MaiMai_remove_ads.js",
+    "file": "88e0dafed4cd147b_MaiMai_remove_ads.js",
+    "status": "ok",
+    "bytes": 716,
+    "sha256": "e941215a83fa4b06cef7e5931776cef1ac777d0e3e0273b6674b7897f20e9466",
+    "references": [
+      {
+        "plugin": "MaiMai_remove_ads.lpx",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/MeituMYXJ/MeituMYXJ_remove_ads.js",
+    "file": "b158d39001e0c748_MeituMYXJ_remove_ads.js",
+    "status": "ok",
+    "bytes": 690,
+    "sha256": "9a50669b814eedd82eb9b73518089547bc7b9c5388dc4e441dfc9f155c55fc61",
+    "references": [
+      {
+        "plugin": "MeituMYXJ_remove_ads.lpx",
+        "line": 24
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/MotorFans/MotorFans_remove_ads.js",
+    "file": "28e7d9d5ad8f354c_MotorFans_remove_ads.js",
+    "status": "ok",
+    "bytes": 4181,
+    "sha256": "f464b6e3853433ae5fb5667c9b17b0333cffdc0c24014b7607fde6d39823f16d",
+    "references": [
+      {
+        "plugin": "MotorFans_remove_ads.lpx",
+        "line": 30
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/NetEaseGodlike/NetEaseGodlike_remove_ads.js",
+    "file": "57cfa1b30d9eed78_NetEaseGodlike_remove_ads.js",
+    "status": "ok",
+    "bytes": 4667,
+    "sha256": "8e6d18a4deaef423190f51e9cb91c643ece48cd773d07c29357ed8384773bef6",
+    "references": [
+      {
+        "plugin": "NetEaseGodlike_remove_ads.lpx",
+        "line": 26
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/NeteaseCloudMusic/NeteaseCloudMusic_remove_ads.js",
+    "file": "ca76a0fcc7d8aab8_NeteaseCloudMusic_remove_ads.js",
+    "status": "ok",
+    "bytes": 17392,
+    "sha256": "20c13c7c598b8e59058493e2143d5c62d27ce6ac2917d04c400fa16caa092528",
+    "references": [
+      {
+        "plugin": "NeteaseCloudMusic_remove_ads.lpx",
+        "line": 49
+      },
+      {
+        "plugin": "NeteaseCloudMusic_remove_ads.lpx",
+        "line": 50
+      },
+      {
+        "plugin": "NeteaseCloudMusic_remove_ads.lpx",
+        "line": 51
+      },
+      {
+        "plugin": "NeteaseCloudMusic_remove_ads.lpx",
+        "line": 52
+      },
+      {
+        "plugin": "NeteaseCloudMusic_remove_ads.lpx",
+        "line": 53
+      },
+      {
+        "plugin": "NeteaseCloudMusic_remove_ads.lpx",
+        "line": 54
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/NeteaseNews/NeteaseNews_remove_ads.js",
+    "file": "8fd25976d1ef634a_NeteaseNews_remove_ads.js",
+    "status": "ok",
+    "bytes": 971,
+    "sha256": "9f03b3b39c8b6d576b1ac18cd098ef5fd08c17fb2be9044f94344ea3a3ff4b8b",
+    "references": [
+      {
+        "plugin": "NeteaseNews_remove_ads.lpx",
+        "line": 27
+      },
+      {
+        "plugin": "NeteaseNews_remove_ads.lpx",
+        "line": 29
+      },
+      {
+        "plugin": "NeteaseNews_remove_ads.lpx",
+        "line": 31
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/NodeLinkCheck/NodeLinkCheck.js",
+    "file": "a7b88cfe2324ba7a_NodeLinkCheck.js",
+    "status": "ok",
+    "bytes": 38564,
+    "sha256": "d818e8fe704514e5a091d536095ef67dcea5c1cdb8f337f7616aae71e40ecf00",
+    "references": [
+      {
+        "plugin": "NodeLinkCheck.lpx",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Node_detection_tool/LocationDetection.js",
+    "file": "c571f95b7d43f3ec_LocationDetection.js",
+    "status": "ok",
+    "bytes": 5128,
+    "sha256": "90669adf74e7989878d6097c36b6db531cdc531c67da0fafb3ecf4be3ae1afcf",
+    "references": [
+      {
+        "plugin": "Node_detection_tool.lpx",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Node_detection_tool/NetworkEntryAndExitQueries.js",
+    "file": "1f5f5d31e95743a0_NetworkEntryAndExitQueries.js",
+    "status": "ok",
+    "bytes": 60270,
+    "sha256": "49b9deb2341a222517b96ef8f836d49ac70d8e8666e49c1ddda65cc540aa63e5",
+    "references": [
+      {
+        "plugin": "Node_detection_tool.lpx",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Node_detection_tool/NodeUnlockDetection.js",
+    "file": "ab9007d4c50835d0_NodeUnlockDetection.js",
+    "status": "ok",
+    "bytes": 25548,
+    "sha256": "06e955266ac6cc534e56737cc991dc00539965c27f534b9947a3471064237d14",
+    "references": [
+      {
+        "plugin": "Node_detection_tool.lpx",
+        "line": 16
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/PICC_Insurance/PICC_Insurance_remove_ads.js",
+    "file": "a09af5bf8168156c_PICC_Insurance_remove_ads.js",
+    "status": "ok",
+    "bytes": 596,
+    "sha256": "c9783faae5d4d945eafc44913ce55c26c1bf827f3145b5c5dd1b2daf4e13ffb8",
+    "references": [
+      {
+        "plugin": "PICC_Insurance_remove_ads.lpx",
+        "line": 19
+      },
+      {
+        "plugin": "PICC_Insurance_remove_ads.lpx",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/PinDuoDuo/PinDuoDuo_remove_ads.js",
+    "file": "ea8de3d9034591b6_PinDuoDuo_remove_ads.js",
+    "status": "ok",
+    "bytes": 2475,
+    "sha256": "63af2e44da24da11f5c1bc930aefdcef2ce16aa65293be3e80ba8520d46e9c58",
+    "references": [
+      {
+        "plugin": "PinDuoDuo_remove_ads.lpx",
+        "line": 72
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/PuPuMall/PuPuMall_remove_ads.js",
+    "file": "15d2e267fe35d511_PuPuMall_remove_ads.js",
+    "status": "ok",
+    "bytes": 1750,
+    "sha256": "76659d365b0da3eef1ef54cde44254f9d951799138af52a3edeea2e29a43f83f",
+    "references": [
+      {
+        "plugin": "PuPuMall_remove_ads.lpx",
+        "line": 18
+      },
+      {
+        "plugin": "PuPuMall_remove_ads.lpx",
+        "line": 19
+      },
+      {
+        "plugin": "PuPuMall_remove_ads.lpx",
+        "line": 20
+      },
+      {
+        "plugin": "PuPuMall_remove_ads.lpx",
+        "line": 21
+      },
+      {
+        "plugin": "PuPuMall_remove_ads.lpx",
+        "line": 22
+      },
+      {
+        "plugin": "PuPuMall_remove_ads.lpx",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Qbb/homepage.js",
+    "file": "06a7c2ac7feb3dfb_homepage.js",
+    "status": "ok",
+    "bytes": 371266,
+    "sha256": "777c52e0bb54ff3982350f826bc9a3cdbddc74538c6411e87cd050e775e7548a",
+    "references": [
+      {
+        "plugin": "Qbb_remove_ads.lpx",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Qbb/my.js",
+    "file": "31c8920e3bcc5e87_my.js",
+    "status": "ok",
+    "bytes": 371270,
+    "sha256": "11f97d5614fa9e1476f0f0993908cff31cc6137a7b10d2bbf2be10f0b28210ab",
+    "references": [
+      {
+        "plugin": "Qbb_remove_ads.lpx",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/RedPaper/RedPaper_remove_ads.js",
+    "file": "a29fbc10f00cfc6e_RedPaper_remove_ads.js",
+    "status": "ok",
+    "bytes": 15186,
+    "sha256": "f7b637c9c738b18f72dd61824e25b06dad7d55553de204daad0dddd675a74f0c",
+    "references": [
+      {
+        "plugin": "RedPaper_remove_ads.lpx",
+        "line": 31
+      },
+      {
+        "plugin": "RedPaper_remove_ads.lpx",
+        "line": 33
+      },
+      {
+        "plugin": "RedPaper_remove_ads.lpx",
+        "line": 35
+      },
+      {
+        "plugin": "RedPaper_remove_ads.lpx",
+        "line": 37
+      },
+      {
+        "plugin": "RedPaper_remove_ads.lpx",
+        "line": 39
+      },
+      {
+        "plugin": "RedPaper_remove_ads.lpx",
+        "line": 41
+      },
+      {
+        "plugin": "RedPaper_remove_ads.lpx",
+        "line": 43
+      },
+      {
+        "plugin": "RedPaper_remove_ads.lpx",
+        "line": 45
+      },
+      {
+        "plugin": "RedPaper_remove_ads.lpx",
+        "line": 47
+      },
+      {
+        "plugin": "RedPaper_remove_ads.lpx",
+        "line": 49
+      },
+      {
+        "plugin": "RedPaper_remove_ads.lpx",
+        "line": 51
+      },
+      {
+        "plugin": "RedPaper_remove_ads.lpx",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/RiskBird/RiskBird_remove_ads.js",
+    "file": "bb38729be757d53f_RiskBird_remove_ads.js",
+    "status": "ok",
+    "bytes": 166,
+    "sha256": "56a1c10a6422423845a8486fbc5deff60f37e6aa9e40fc439317e7e2c57fc9e2",
+    "references": [
+      {
+        "plugin": "RiskBird_remove_ads.lpx",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/ShoujiDesk/base_init.js",
+    "file": "20acddd675b36fc1_base_init.js",
+    "status": "ok",
+    "bytes": 54278,
+    "sha256": "d588c5dae21ce09cb39617aa7abbd01cf976ec148083b45fc261fccccd67d68d",
+    "references": [
+      {
+        "plugin": "ShoujiDesk_remove_ads.lpx",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/ShuQiCenterReader/ShuQiCenterReader_remove_ads.js",
+    "file": "b3647f0da5e106d6_ShuQiCenterReader_remove_ads.js",
+    "status": "ok",
+    "bytes": 474,
+    "sha256": "aae03c4a577abdd6a9a77069ce6d16b327e5821afc6a85c8b689dcddf1b5f976",
+    "references": [
+      {
+        "plugin": "ShuQiCenterReader_remove_ads.lpx",
+        "line": 24
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/SodaMusic/SodaMusic_remove_ads.js",
+    "file": "2531c9fe6208f110_SodaMusic_remove_ads.js",
+    "status": "ok",
+    "bytes": 989,
+    "sha256": "f7a929bfe291b2433db14a2a7ef99b38e92b1f21eaed847e05cc803269eddb93",
+    "references": [
+      {
+        "plugin": "SodaMusic_remove_ads.lpx",
+        "line": 48
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Soul/Soul_remove_ads.js",
+    "file": "6659152f24c8df86_Soul_remove_ads.js",
+    "status": "ok",
+    "bytes": 1740,
+    "sha256": "5a9a02b54668a58dbe2942d39eca12612b2f4669a6cd4fe2847032cbea753d0a",
+    "references": [
+      {
+        "plugin": "Soul_remove_ads.lpx",
+        "line": 38
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Spotify/External_Lyrics_response.js",
+    "file": "400696d7e33c6f7c_External_Lyrics_response.js",
+    "status": "ok",
+    "bytes": 631426,
+    "sha256": "cc152dab19706137b133465c8168b2f3903b76b23e815d35ea77cb8f91b081a3",
+    "references": [
+      {
+        "plugin": "Spotify_lyrics_translation.lpx",
+        "line": 22
+      },
+      {
+        "plugin": "Spotify_lyrics_translation.lpx",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Spotify/Spotify_remove_ads.js",
+    "file": "4e8dba2035f28ce7_Spotify_remove_ads.js",
+    "status": "ok",
+    "bytes": 9389,
+    "sha256": "198cb5869d9710c56ed1945156c8f6227fdf9d19da38ee1c8870f4d72f26c6c8",
+    "references": [
+      {
+        "plugin": "Spotify_remove_ads.lpx",
+        "line": 26
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Spotify/Spotify_request.js",
+    "file": "32070d2da1b77301_Spotify_request.js",
+    "status": "ok",
+    "bytes": 566732,
+    "sha256": "879d022f761667e7a35c71d059a351b8e7f75ecc7e4e4b359eee1fe51a6b7ce5",
+    "references": [
+      {
+        "plugin": "Spotify_lyrics_translation.lpx",
+        "line": 16
+      },
+      {
+        "plugin": "Spotify_lyrics_translation.lpx",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Spotify/Spotify_response.js",
+    "file": "5614aabf12b57e74_Spotify_response.js",
+    "status": "ok",
+    "bytes": 604415,
+    "sha256": "3de8776a9e1d37f64c6ae8e5f402e5ae797f8d2caac328e431f841297ac11eaa",
+    "references": [
+      {
+        "plugin": "Spotify_lyrics_translation.lpx",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Spotify/Translate_response.js",
+    "file": "7d09e791084c26bc_Translate_response.js",
+    "status": "ok",
+    "bytes": 653991,
+    "sha256": "8d93f76a8e58f6073e857f6e11750a9e5ebef9d7bc11fa12d18a2d95365841f9",
+    "references": [
+      {
+        "plugin": "Spotify_lyrics_translation.lpx",
+        "line": 19
+      },
+      {
+        "plugin": "Spotify_lyrics_translation.lpx",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/TV_Assistant/TV_Assistant_remove_ads.js",
+    "file": "6df6a61bc422d4a6_TV_Assistant_remove_ads.js",
+    "status": "ok",
+    "bytes": 224,
+    "sha256": "a957df12593369f6ce111a79619ba88cdad4870aa18b639ff1942a92d441bb18",
+    "references": [
+      {
+        "plugin": "TV_Assistant_remove_ads.lpx",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Taobao/Taobao_remove_ads.js",
+    "file": "9d853d73b21f0772_Taobao_remove_ads.js",
+    "status": "ok",
+    "bytes": 3181,
+    "sha256": "3ccb2093683d84a0085a24506fb04d3ac87713e8e1bade764711816e8908d903",
+    "references": [
+      {
+        "plugin": "Taobao_remove_ads.lpx",
+        "line": 35
+      },
+      {
+        "plugin": "Taobao_remove_ads.lpx",
+        "line": 37
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/TestFlight/AutoJoinTF.js",
+    "file": "9eda6ac7e368cfd9_AutoJoinTF.js",
+    "status": "ok",
+    "bytes": 17595,
+    "sha256": "27dfc19b260b033362be1969ef992b2f3f9bd114ce2d48dc9d0d17ea86980b00",
+    "references": [
+      {
+        "plugin": "Auto_Join_TF.lpx",
+        "line": 26
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/TestFlight/AutoMonitorTF.js",
+    "file": "f97aa9b42b0e3554_AutoMonitorTF.js",
+    "status": "ok",
+    "bytes": 18492,
+    "sha256": "709cec812e71a2f8db7b5c05769be17fce0a3ea61057a604b024a9f836f7b58f",
+    "references": [
+      {
+        "plugin": "Auto_Join_TF.lpx",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/TestFlight/CaptureAccountToken.js",
+    "file": "cd9b7c24339f2673_CaptureAccountToken.js",
+    "status": "ok",
+    "bytes": 15431,
+    "sha256": "91d510d7d283b3e55a7b8be3ec95433399f1c4f2802b25f4c066ae362f3032f5",
+    "references": [
+      {
+        "plugin": "Auto_Join_TF.lpx",
+        "line": 25
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Tieba/tieba-proto.js",
+    "file": "3a02881f13f2cc05_tieba-proto.js",
+    "status": "ok",
+    "bytes": 97577,
+    "sha256": "2ab9006be369e1083072ec49f4163245d8c385b0f3acc40910c2922454ebbd78",
+    "references": [
+      {
+        "plugin": "Tieba_remove_ads.lpx",
+        "line": 49
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Uki/Uki_remove_ads.js",
+    "file": "6cf1d356d9f8222e_Uki_remove_ads.js",
+    "status": "ok",
+    "bytes": 945,
+    "sha256": "af15371ec2946805b9f3f2af8a13f807434a05166e4f76178a8e28fdf645b720",
+    "references": [
+      {
+        "plugin": "Uki_remove_ads.lpx",
+        "line": 22
+      },
+      {
+        "plugin": "Uki_remove_ads.lpx",
+        "line": 24
+      },
+      {
+        "plugin": "Uki_remove_ads.lpx",
+        "line": 26
+      },
+      {
+        "plugin": "Uki_remove_ads.lpx",
+        "line": 28
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Umetrip/Umetrip_remove_ads.js",
+    "file": "b1634469cda4f4ec_Umetrip_remove_ads.js",
+    "status": "ok",
+    "bytes": 176,
+    "sha256": "c85b417e388f8fc8bbb0eb396db4869abe6a51e078a6148baa41bea379b5e2b5",
+    "references": [
+      {
+        "plugin": "Umetrip_remove_ads.lpx",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/VVebo/VVebo_repair.js",
+    "file": "c31a995cdfc558be_VVebo_repair.js",
+    "status": "ok",
+    "bytes": 1391,
+    "sha256": "7fd17286253c41c42f1f96b02ac200e4a82f5edf98c14caa7be3a444a872ab16",
+    "references": [
+      {
+        "plugin": "VVebo_repair.lpx",
+        "line": 14
+      },
+      {
+        "plugin": "VVebo_repair.lpx",
+        "line": 16
+      },
+      {
+        "plugin": "VVebo_repair.lpx",
+        "line": 18
+      },
+      {
+        "plugin": "VVebo_repair.lpx",
+        "line": 20
+      },
+      {
+        "plugin": "VVebo_repair.lpx",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/WPS/WPS_checkin.js",
+    "file": "d02959dd3e6428cf_WPS_checkin.js",
+    "status": "ok",
+    "bytes": 14064,
+    "sha256": "fc8f6fdf39c2adf5a2fb0c5e326375def5b3c09ecd68b33b910e4f3f0bda1c5c",
+    "references": [
+      {
+        "plugin": "WPS_checkin.lpx",
+        "line": 22
+      },
+      {
+        "plugin": "WPS_checkin.lpx",
+        "line": 24
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Weibo/Weibo_remove_ads.js",
+    "file": "dc0eef05c006b1a8_Weibo_remove_ads.js",
+    "status": "ok",
+    "bytes": 56702,
+    "sha256": "026ccd766a53f744c2bf2aad93c4deb6f207defe4daf973178bb3e4193c997fb",
+    "references": [
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 45
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 47
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 49
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 51
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 53
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 55
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 57
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 59
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 61
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 63
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 65
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 67
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 69
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 71
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 73
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 75
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 77
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 79
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 81
+      },
+      {
+        "plugin": "Weibo_remove_ads.lpx",
+        "line": 83
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Weidian/getAppConfig.js",
+    "file": "fa4881c9a0556a34_getAppConfig.js",
+    "status": "ok",
+    "bytes": 282396,
+    "sha256": "5dfa32387cc7d12bf1bb517067b2abc8a2e4d3eb83049c98cdcafed2857b24b1",
+    "references": [
+      {
+        "plugin": "Weidian_remove_ads.lpx",
+        "line": 39
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Weidian/wallet.js",
+    "file": "99a63d4a727cb316_wallet.js",
+    "status": "ok",
+    "bytes": 282398,
+    "sha256": "58668f38684df224e19d4f9c78e37c29c13c151359e1d9ea03f1138d0ab32b02",
+    "references": [
+      {
+        "plugin": "Weidian_remove_ads.lpx",
+        "line": 41
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/Weixin/Weixin_external_links_unlock.js",
+    "file": "6eff56246b9e4eaf_Weixin_external_links_unlock.js",
+    "status": "ok",
+    "bytes": 86431,
+    "sha256": "f0ed6a3b7dba3365969e6b36b621e13f0feb17f1eef6794ba9a36d0413d36d50",
+    "references": [
+      {
+        "plugin": "Weixin_external_links_unlock.lpx",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/WexinMiniPrograms/FamilyMart/FamilyMart.js",
+    "file": "630feb4741dba1ca_FamilyMart.js",
+    "status": "ok",
+    "bytes": 99,
+    "sha256": "e25457f43eacfbf27ca8229445e69f60f7562ece723b5ebaf07969c0ebf75e1c",
+    "references": [
+      {
+        "plugin": "WexinMiniPrograms_Remove_ads.lpx",
+        "line": 219
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/WexinMiniPrograms/M_Stand/M_Stand.js",
+    "file": "1335e255edeb666e_M_Stand.js",
+    "status": "ok",
+    "bytes": 498,
+    "sha256": "5d6f163842ce53eb034fa01c244f6482fedd2f5d56b7c206c25d6f11c21e805f",
+    "references": [
+      {
+        "plugin": "WexinMiniPrograms_Remove_ads.lpx",
+        "line": 231
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/WexinMiniPrograms/T3/T3.js",
+    "file": "1dc1411467a12659_T3.js",
+    "status": "ok",
+    "bytes": 91,
+    "sha256": "ab1ca9af4dd9b294f585335856de51d6df2b61c31d9a3d1982a5b091355da25a",
+    "references": [
+      {
+        "plugin": "WexinMiniPrograms_Remove_ads.lpx",
+        "line": 233
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/WexinMiniPrograms/alittle-tea/alittle-tea.js",
+    "file": "291682ce6dcd7cdc_alittle-tea.js",
+    "status": "ok",
+    "bytes": 88,
+    "sha256": "c765215071712fa0c0c0ef3719263fff81d4a1ce0189f8bc0861aa721657a44c",
+    "references": [
+      {
+        "plugin": "WexinMiniPrograms_Remove_ads.lpx",
+        "line": 229
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/WexinMiniPrograms/chayanyuese/chayanyuese_remove_ads.js",
+    "file": "0758ac0de9b95a5c_chayanyuese_remove_ads.js",
+    "status": "ok",
+    "bytes": 331,
+    "sha256": "4b7f857caa810648f7be584e916ceffb9c12dd3b2ce7766ed5bd605646e2a4d1",
+    "references": [
+      {
+        "plugin": "WexinMiniPrograms_Remove_ads.lpx",
+        "line": 223
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/WexinMiniPrograms/coco/coco.js",
+    "file": "2dc6bc77fe5244bd_coco.js",
+    "status": "ok",
+    "bytes": 145,
+    "sha256": "dc9a1915eed8f6f760a8f3a03f5e2f5a0f346373693ae4ac2e0c5dbd90fd46b3",
+    "references": [
+      {
+        "plugin": "WexinMiniPrograms_Remove_ads.lpx",
+        "line": 225
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/WexinMiniPrograms/ems/ems.js",
+    "file": "5249430bf5368686_ems.js",
+    "status": "ok",
+    "bytes": 196,
+    "sha256": "2208e4945d8781e5bc9d20a436fc141629a7e4dc9fd516f9fe917196010cf5bc",
+    "references": [
+      {
+        "plugin": "WexinMiniPrograms_Remove_ads.lpx",
+        "line": 215
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/WexinMiniPrograms/kff/kff.js",
+    "file": "91a927bdcefb8fee_kff.js",
+    "status": "ok",
+    "bytes": 1169,
+    "sha256": "8453c73e9412fd99396afbfea14e7d26c46936da1650603b6f2433cda18cbf2c",
+    "references": [
+      {
+        "plugin": "WexinMiniPrograms_Remove_ads.lpx",
+        "line": 213
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/WexinMiniPrograms/lawson/lawson.js",
+    "file": "d962d63c7caded97_lawson.js",
+    "status": "ok",
+    "bytes": 145,
+    "sha256": "3d57d6ae9070934eef3513e2a4b640fad9dd5076fbbc6c471994bd3d790068f1",
+    "references": [
+      {
+        "plugin": "WexinMiniPrograms_Remove_ads.lpx",
+        "line": 221
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/WexinMiniPrograms/ming/ming.js",
+    "file": "81bb9080036abfe6_ming.js",
+    "status": "ok",
+    "bytes": 84,
+    "sha256": "bd0f4e67ae73fdd083b10c1e802912d8c9ade1b2b14a0dead865d7af0b90d991",
+    "references": [
+      {
+        "plugin": "WexinMiniPrograms_Remove_ads.lpx",
+        "line": 235
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/WexinMiniPrograms/qingju/qingju.js",
+    "file": "c14e0d6e985b83f1_qingju.js",
+    "status": "ok",
+    "bytes": 106,
+    "sha256": "8664e7a22b21aaa8546ec167e3a43fee7ebd2c00552a126212720b09a4819bf8",
+    "references": [
+      {
+        "plugin": "WexinMiniPrograms_Remove_ads.lpx",
+        "line": 227
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/WexinMiniPrograms/xiaotucc/xiaotucc.js",
+    "file": "0a7f5cc6c9c50017_xiaotucc.js",
+    "status": "ok",
+    "bytes": 356,
+    "sha256": "a10131a49267ce2cdd17c7c4d783eb64c8aa943b83ee4dcadb846ccd2c4bbb1b",
+    "references": [
+      {
+        "plugin": "WexinMiniPrograms_Remove_ads.lpx",
+        "line": 217
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/XiaojukejiCharge/XiaojukejiCharge_remove_ads.js",
+    "file": "c8202e1b2ec7b583_XiaojukejiCharge_remove_ads.js",
+    "status": "ok",
+    "bytes": 1702314,
+    "sha256": "807a08b4daff3797c09f17d1a844cdc75bf3f46aaea58e3f0b6e41ad57161f7a",
+    "references": [
+      {
+        "plugin": "XiaojukejiCharge_remove_ads.lpx",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/YouTube/YouTube_Subtitles_Translate/YouTube_Composite_Subtitles_response.js",
+    "file": "7d87b81a55287bda_YouTube_Composite_Subtitles_response.js",
+    "status": "ok",
+    "bytes": 54038,
+    "sha256": "01283e2c53e347382bd697f1fc7cb1b04cdc93baf33aa58d149e604a18054ad4",
+    "references": [
+      {
+        "plugin": "YouTubeSubtitlesTranslation.lpx",
+        "line": 26
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/YouTube/YouTube_Subtitles_Translate/YouTube_Subtitles_Translate_response.js",
+    "file": "0422d9cd04431eb6_YouTube_Subtitles_Translate_response.js",
+    "status": "ok",
+    "bytes": 653656,
+    "sha256": "08ce488d49732ea1e74e53a05310f28e0f44eb1c65b5873118dc4ca07e3a7364",
+    "references": [
+      {
+        "plugin": "YouTubeSubtitlesTranslation.lpx",
+        "line": 27
+      },
+      {
+        "plugin": "YouTubeSubtitlesTranslation.lpx",
+        "line": 31
+      },
+      {
+        "plugin": "YouTubeSubtitlesTranslation.lpx",
+        "line": 32
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/YouTube/YouTube_Subtitles_Translate/YouTube_Subtitles_request.js",
+    "file": "add257f7b2c94ef8_YouTube_Subtitles_request.js",
+    "status": "ok",
+    "bytes": 66369,
+    "sha256": "069cb5f3158c7777a8c0dbac926d3ce0ca605587d3123c386dc65a15d51fabc8",
+    "references": [
+      {
+        "plugin": "YouTubeSubtitlesTranslation.lpx",
+        "line": 20
+      },
+      {
+        "plugin": "YouTubeSubtitlesTranslation.lpx",
+        "line": 22
+      },
+      {
+        "plugin": "YouTubeSubtitlesTranslation.lpx",
+        "line": 25
+      },
+      {
+        "plugin": "YouTubeSubtitlesTranslation.lpx",
+        "line": 29
+      },
+      {
+        "plugin": "YouTubeSubtitlesTranslation.lpx",
+        "line": 30
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/YouTube/YouTube_Subtitles_Translate/YouTube_Subtitles_response.js",
+    "file": "a4c7172f020ef99f_YouTube_Subtitles_response.js",
+    "status": "ok",
+    "bytes": 65371,
+    "sha256": "624bec4a6b3162971a458e2ccb097efd20a906016b82293c341d344152edc09c",
+    "references": [
+      {
+        "plugin": "YouTubeSubtitlesTranslation.lpx",
+        "line": 21
+      },
+      {
+        "plugin": "YouTubeSubtitlesTranslation.lpx",
+        "line": 23
+      },
+      {
+        "plugin": "YouTubeSubtitlesTranslation.lpx",
+        "line": 24
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/YouTube/YouTube_remove_ads/YouTube_remove_ads_request.js",
+    "file": "a8704cadd8f8f036_YouTube_remove_ads_request.js",
+    "status": "ok",
+    "bytes": 44157,
+    "sha256": "af0646890f9847aa4576181b0637e31b86a3e2f6dd4d2041a56ffa971aacc10b",
+    "references": [
+      {
+        "plugin": "YouTube_remove_ads.lpx",
+        "line": 23
+      },
+      {
+        "plugin": "YouTube_remove_ads.lpx",
+        "line": 25
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/YouTube/YouTube_remove_ads/YouTube_remove_ads_response.js",
+    "file": "0e06084d89adaf0d_YouTube_remove_ads_response.js",
+    "status": "ok",
+    "bytes": 133107,
+    "sha256": "b926d339069a8f54e84bd5d29e8c8364ee9ea72bb170197e281b04eda49e3568",
+    "references": [
+      {
+        "plugin": "YouTube_remove_ads.lpx",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/iMaiCai/iMaiCai_remove_ads.js",
+    "file": "1560243f758f9a73_iMaiCai_remove_ads.js",
+    "status": "ok",
+    "bytes": 222,
+    "sha256": "f186eb3760ab578964cf713104a2a563c2b9365cb2e23311f165537de3fc8b06",
+    "references": [
+      {
+        "plugin": "iMaiCai_remove_ads.lpx",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/iWallBiZhi/core_initialize.js",
+    "file": "5ffbbbd1d719e1d1_core_initialize.js",
+    "status": "ok",
+    "bytes": 207344,
+    "sha256": "85bb24cccb37499fe8c4e334a61b3c8b5a6485bb167a33141879e46ee0a3f531",
+    "references": [
+      {
+        "plugin": "iWallBiZhi_remove_ads.lpx",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/iWallBiZhi/landing.js",
+    "file": "d0482cab4b27d6d6_landing.js",
+    "status": "ok",
+    "bytes": 207119,
+    "sha256": "66aec750fd71c6de8100e26789080efc736c3592f982cfb6703cdb13e96af1db",
+    "references": [
+      {
+        "plugin": "iWallBiZhi_remove_ads.lpx",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/iWallBiZhi/landing_initialize.js",
+    "file": "0aa34c5fc1ee3d86_landing_initialize.js",
+    "status": "ok",
+    "bytes": 207130,
+    "sha256": "e799e430ef3f751c686a4cf3df5d8dc2ab7c7b81170f3feb08e6ee45452762e9",
+    "references": [
+      {
+        "plugin": "iWallBiZhi_remove_ads.lpx",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/mobileClouds/mobileClouds_remove_ads.js",
+    "file": "9858236b73662cb2_mobileClouds_remove_ads.js",
+    "status": "ok",
+    "bytes": 1450,
+    "sha256": "ec2ac94692a6d6ceee12251142ccf3e200a3a27f2335bd32fdc64239c395d798",
+    "references": [
+      {
+        "plugin": "mobileClouds_remove_ads.lpx",
+        "line": 14
+      },
+      {
+        "plugin": "mobileClouds_remove_ads.lpx",
+        "line": 16
+      }
+    ]
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/Rewrite-Parser.js",
+    "file": "d1171e6520deae64_Rewrite-Parser.js",
+    "status": "ok",
+    "bytes": 114680,
+    "sha256": "c5e46afa219424e22bcba151dbd6f5e4c6caf518cfdf3317381f4c7e2068e51b",
+    "references": [
+      {
+        "plugin": "Script-Hub.lpx",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/rule-parser.js",
+    "file": "5f575b117bdf0130_rule-parser.js",
+    "status": "ok",
+    "bytes": 24403,
+    "sha256": "6d30380cc68e112b5bcb5d9b2013d553d3c48612b1c61e78f0e0bfae3e48ca2c",
+    "references": [
+      {
+        "plugin": "Script-Hub.lpx",
+        "line": 24
+      }
+    ]
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/script-converter.js",
+    "file": "884e36ed7bfefa03_script-converter.js",
+    "status": "ok",
+    "bytes": 29542,
+    "sha256": "27fc22ac5a40364fbe0728d7264e163431656e7b142cde6337ecad11e5d60b78",
+    "references": [
+      {
+        "plugin": "Script-Hub.lpx",
+        "line": 26
+      }
+    ]
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/script-hub.js",
+    "file": "71d45f38fd72e70b_script-hub.js",
+    "status": "ok",
+    "bytes": 259406,
+    "sha256": "6a0c1d8e05136e7f134bfbf0dd94a8ab7356b22607a1ba7bace57820e2bc7af1",
+    "references": [
+      {
+        "plugin": "Script-Hub.lpx",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/js/1.1.1.1.panel.js",
+    "file": "5abe4e8c27948331_1.1.1.1.panel.js",
+    "status": "ok",
+    "bytes": 23675,
+    "sha256": "09d152d35b5eaa589f95b7fb9d6e3ba94a8c12a4e54afcb207df53a929835d22",
+    "references": [
+      {
+        "plugin": "WARP_Node_Query.lpx",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/js/1.1.1.1.request.js",
+    "file": "d0a943384d4a0997_1.1.1.1.request.js",
+    "status": "ok",
+    "bytes": 19022,
+    "sha256": "3dbbac042b8aa49e92cb9b09c3724597122603c2dc68d4a878aca6e66713e66a",
+    "references": [
+      {
+        "plugin": "1.1.1.1.lpx",
+        "line": 14
+      },
+      {
+        "plugin": "1.1.1.1.lpx",
+        "line": 16
+      }
+    ]
+  },
+  {
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/js/1.1.1.1.response.js",
+    "file": "076d1cba3f6ab022_1.1.1.1.response.js",
+    "status": "ok",
+    "bytes": 24170,
+    "sha256": "084e5f5e92bb07ed20adc9be0f3b2f6ce18c3622651f08377127d13cae2c1ad4",
+    "references": [
+      {
+        "plugin": "1.1.1.1.lpx",
+        "line": 15
+      },
+      {
+        "plugin": "1.1.1.1.lpx",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js",
+    "file": "7055226f4f1d8737_chavy.boxjs.js",
+    "status": "ok",
+    "bytes": 52473,
+    "sha256": "24ab4513d9b210d3921f87660175ddf408f2c4728a01ecb391082e82d8f8ffa6",
+    "references": [
+      {
+        "plugin": "BoxJs.lpx",
+        "line": 17
+      }
+    ]
+  }
+]

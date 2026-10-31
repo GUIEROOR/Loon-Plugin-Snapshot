@@ -1,0 +1,72 @@
+#!name = 流媒体解锁测试
+#!desc = 设置不同流媒体规则所经策略组，访问服务检测网页（https://streaming.test），点击所需要测试的流媒体卡片，等待测试结果即可。
+#!openUrl = https://streaming.test/
+#!author = huskydsb[https://github.com/huskydsb]
+#!tag = 功能增强
+#!system = 
+#!system_version = 
+#!loon_version = 3.5.2(1005)
+#!homepage = https://loonlab.103516.xyz/Plugin/
+#!icon = https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Conflux.png
+#!date = 2026-10-02 12:00
+
+# 2025-01-31
+# https://github.com/huskydsb/Shadowrocket/blob/main/Sgmodule/%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%E6%B5%8B%E8%AF%95.module
+
+[Script]
+request if ${url} ~= /^https:\/\/streaming\.test\/bahamut\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/beda926ad924c56b_bahamuts.js") with tag="[流媒体解锁测试]Bahamut", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/steam\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/510e8dda50acd6ca_steam.js") with tag="[流媒体解锁测试]Steam", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/bilibili\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/24ff47f9a363005c_bilibili.js") with tag="[流媒体解锁测试]Bilibili", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/spotify\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/65983a5a1c945990_spotify.js") with tag="[流媒体解锁测试]Spotify", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/scamalytics\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/0699d49cdb5b2fd2_scamalytics.js") with tag="[流媒体解锁测试]Scamalytics", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/disney\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/e369c02a81833d86_disney.js") with tag="[流媒体解锁测试]Disney", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/netflix\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/2d01851475fcd3fe_netflix.js") with tag="[流媒体解锁测试]Netflix", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/chatgpt\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/cf2567ff19fd98f1_chatgpt.js") with tag="[流媒体解锁测试]ChatGPT", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/tiktok\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/747430f83b6405b3_tiktok.js") with tag="[流媒体解锁测试]TikTok", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/youtube\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/ad53d7e82b3ae4d6_youtube.js") with tag="[流媒体解锁测试]YouTube", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/max\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/508dd252d3068aec_max.js") with tag="[流媒体解锁测试]HBO Max", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/primevideo\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/62706cb34b562253_primevideo.js") with tag="[流媒体解锁测试]PrimeVideo", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/bing\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/f6e066a4f677f4ae_bing.js") with tag="[流媒体解锁测试]Bing", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/nicovideo\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/e8bb804537c1efd4_niconico.js") with tag="[流媒体解锁测试]ニコニコ動画（Niconico动画）", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/googleplay\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/968b69f1c8fd2663_googleplay.js") with tag="[流媒体解锁测试]Google Play", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/wikipedia\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/d0cb10e822d83374_wikipedia.js") with tag="[流媒体解锁测试]Wikipedia", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/starz\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/b21a19c7782613f6_starz.js") with tag="[流媒体解锁测试]Starz", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/iqiyi\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/1c15a374f3150cd9_iqiyi.js") with tag="[流媒体解锁测试]iQIYI", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/dazn\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/bc77e58f1d285021_dazn.js") with tag="[流媒体解锁测试]DAZN", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/paramountplus\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/cc0db02ad83c7d83_paramountplus.js") with tag="[流媒体解锁测试]Paramount Plus", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/viutv\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/5b5fe29b551ec0cc_viutv.js") with tag="[流媒体解锁测试]ViuTV", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/nowe\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/963e6c43b4567258_nowe.js") with tag="[流媒体解锁测试]Now E", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/kktv\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/2ea48f6d3186e9da_kktv.js") with tag="[流媒体解锁测试]KKTV", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/linetv\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/b8029086df6a3a7c_linetv.js") with tag="[流媒体解锁测试]LINE TV", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/ip\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/5e54dcae8f264f22_ip.js") with tag="[流媒体解锁测试]IPv6", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/dns\/?$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/3dd436219de5ac86_surfsharkdns.js") with tag="[流媒体解锁测试]Surfshark DNS", timeout=60
+
+request if ${url} ~= /^https:\/\/streaming\.test\/$/i then script("https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/293aeb76d128b9a6_front-end.js") with tag="[流媒体解锁测试]Front-end", timeout=60
+
+[MitM]
+hostname = streaming.test
