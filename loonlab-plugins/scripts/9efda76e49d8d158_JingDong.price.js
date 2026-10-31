@@ -17,7 +17,7 @@ const { $log, $msg, $prs, $http, md5, jsonToCustomString, jsonToQueryString } =
 
 const JdLine = (data) => {
   return `
-<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.4.3/echarts.min.js"></script>
+<script src="https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/ff01365e41c73530_echarts.min.js"></script>
     <style>
         /* 基础样式 */
         .price-trend {

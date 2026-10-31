@@ -48,7 +48,7 @@ $.web = `https://cdn.jsdelivr.net/gh/chavyleung/scripts@${
   $.version
 }/box/chavy.boxjs.html?_=${new Date().getTime()}`
 // 版本说明地址 (Release Note)
-$.ver = `https://raw.githubusercontent.com/chavyleung/scripts/master/box/release/box.release.json`
+$.ver = `https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/f046c9825c433d6e_box.release.json`
 
 !(async () => {
   // 勿扰模式
@@ -415,31 +415,31 @@ function getSystemApps() {
       scripts: [
         {
           name: "抹掉：所有缓存",
-          script: "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.caches.js"
+          script: "https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/b917a96ec1554594_boxjs.revert.caches.js"
         },
         {
           name: "抹掉：收藏应用",
-          script: "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.favapps.js"
+          script: "https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/b809bd2f924a874a_boxjs.revert.usercfgs.favapps.js"
         },
         {
           name: "抹掉：用户偏好",
-          script: "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.js"
+          script: "https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/848b4373acd97c04_boxjs.revert.usercfgs.js"
         },
         {
           name: "抹掉：所有会话",
-          script: "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.sessions.js"
+          script: "https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/82c0114e4923f17e_boxjs.revert.usercfgs.sessions.js"
         },
         {
           name: "抹掉：所有备份",
-          script: "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.baks.js"
+          script: "https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/b07cbaeff33ea86c_boxjs.revert.baks.js"
         },
         {
           name: "抹掉：BoxJs (注意备份)",
-          script: "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.boxjs.js"
+          script: "https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/45da4900046aec9b_boxjs.revert.boxjs.js"
         }
       ],
       author: '@chavyleung',
-      repo: 'https://github.com/chavyleung/scripts/blob/master/box/switcher/box.switcher.js',
+      repo: 'https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/d9ed405f02e35126_box.switcher.js',
       icons: [
         'https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxSetting.mini.png',
         'https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxSetting.png'
@@ -452,12 +452,12 @@ function getSystemApps() {
       keys: [],
       settings: [{ id: 'CFG_BoxSwitcher_isSilent', name: '静默运行', val: false, type: 'boolean', desc: '切换会话时不发出系统通知!' }],
       author: '@chavyleung',
-      repo: 'https://github.com/chavyleung/scripts/blob/master/box/switcher/box.switcher.js',
+      repo: 'https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/d9ed405f02e35126_box.switcher.js',
       icons: [
         'https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxSwitcher.mini.png',
         'https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxSwitcher.png'
       ],
-      script: 'https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js'
+      script: 'https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/d9ed405f02e35126_box.switcher.js'
     },
     {
       id: "BoxGist",
@@ -493,15 +493,15 @@ function getSystemApps() {
       scripts: [
         {
           name: "备份 Gist",
-          script: "https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js"
+          script: "https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/1aa59bfd4624a5b7_backup.js"
         },
         {
           name: "从 Gist 恢复",
-          script: "https://raw.githubusercontent.com/dompling/Script/master/gist/restore.js"
+          script: "https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/31f5ccf44a673d17_restore.js"
         },
         {
           name: "更新历史版本",
-          script: "https://raw.githubusercontent.com/dompling/Script/master/gist/commit.js"
+          script: "https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/3ce7762ea62a9df0_commit.js"
         }
       ],
       settings: [

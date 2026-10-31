@@ -428,3 +428,7 @@
 - [YouTube (Music)](https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/YouTube.lpx)
 - [YouTube](https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/YouTube_CN.lpx)
 - [知乎](https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/ZhiHu.lpx)
+
+## 内部依赖快照
+
+2026-11-01：递归保存 149 个静态依赖文件（两套插件各自保存），并改写运行时加载地址。包括工具库、BoxJs 配置和其引用的任务脚本、天气城市网格数据等。外部 API 与业务请求地址保持不变，原有脚本来源注释保留。另有 7 个不同的依赖链接返回 404，保留原地址；详见 [dependency-report.json](dependency-report.json)。动态拼接、用户自定义链接及远程 API 仍可能依赖外部服务。

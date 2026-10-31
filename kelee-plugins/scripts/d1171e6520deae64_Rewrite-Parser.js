@@ -622,7 +622,7 @@ if (binaryInfo != null && binaryInfo.length > 0) {
           }
         }
       }
-      const jsurl = 'https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/body-rewrite.js'
+      const jsurl = 'https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/kelee-plugins/dependencies/aa0bfa004a764fe1_body-rewrite.js'
       let jstype = `http-${httpType}`
       const jsptn = regex
       let args = [[action, newSuffixArray]]
@@ -2013,7 +2013,7 @@ function getModInfo(x) {
 
 //获取可莉图标集
 async function getIcon(icon) {
-  let url = 'https://raw.githubusercontent.com/luestr/IconResource/main/KeLee_icon.json'
+  let url = 'https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/kelee-plugins/dependencies/dec4dc51468f3b0e_KeLee_icon.json'
   let kicon = $.getjson('Parser_Kelee_icon')
   if (!kicon) {
     kicon = $.toObj((await http(url)).body)['icons']
@@ -2112,7 +2112,7 @@ function getQxReInfo(x, y, mark) {
   let jsptn = x.split(/\s+url\s+re/)[0].replace(/^#/, '')
   let jsname = /body/.test(hdorbd) ? 'replaceBody' : 'replaceHeader'
   let jsurl = /header/.test(hdorbd)
-    ? 'https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-header.js'
+    ? 'https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/kelee-plugins/dependencies/d2b0ac1a1c7a2227_replace-header.js'
     : 'https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/scripts/7e513b7176785a58_replace-body.js'
   let rearg1 = x.split(breakpoint)[1].trim()
   let rearg2 = x.split(breakpoint)[2].trim()
@@ -2324,7 +2324,7 @@ function getMockInfo(x, mark, y) {
           num: y,
         })
       } else if (m2rType == null && mocktype != 'file') {
-        jsurl = 'https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/echo-response.js'
+        jsurl = 'https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/kelee-plugins/dependencies/5cc6995ffe48ac6f_echo-response.js'
         mockstatus = mockstatus ? '&status-code=' + mockstatus : ''
         jsarg = `${mocktype}=` + encodeURIComponent(mockurl) + mockstatus
         jsBox.push({

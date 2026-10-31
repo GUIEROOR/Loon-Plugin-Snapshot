@@ -1,0 +1,2074 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/xiaobailian67/Surge/main/SimpleExpressBeta.js",
+    "file": "187cde3ffbcd7e35_SimpleExpressBeta.js",
+    "status": "ok",
+    "bytes": 21110,
+    "sha256": "8d349c43db4974a98db0508360be7dd07711e85ed44b0e0e089c965250d433f9",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/691372cf8af55ba2_AppStoreAPI.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "8d349c43db4974a98db0508360be7dd07711e85ed44b0e0e089c965250d433f9"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/xiaobailian67/Surge/main/utils.js",
+    "file": "f6c393ae158dca06_utils.js",
+    "status": "ok",
+    "bytes": 13540,
+    "sha256": "2f2cc15b9d62fe4d012d866c847be7e5f7aff71dbd2bd43f2893b43ff2ba55a1",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/691372cf8af55ba2_AppStoreAPI.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "2f2cc15b9d62fe4d012d866c847be7e5f7aff71dbd2bd43f2893b43ff2ba55a1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/xiaobailian67/Surge/main/plist-complete.js",
+    "file": "00bd3cc60a5cea28_plist-complete.js",
+    "status": "ok",
+    "bytes": 26238,
+    "sha256": "a652937e66fafdfa5e0a50d3b20a8bcb8d11802edea8de445fe0001389d97ae2",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/691372cf8af55ba2_AppStoreAPI.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "a652937e66fafdfa5e0a50d3b20a8bcb8d11802edea8de445fe0001389d97ae2"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/release/box.release.json",
+    "file": "f046c9825c433d6e_box.release.json",
+    "status": "ok",
+    "bytes": 84016,
+    "sha256": "02596f6a2535c122a2889e53be1ac9b7c74357eb1509b25e40ab54e617c04409",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "e3fdf4ca461c74a69627b0bec2285c36f53dc3aba6a0984bbc9f7e2d4aaa112c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.js",
+    "file": "848b4373acd97c04_boxjs.revert.usercfgs.js",
+    "status": "ok",
+    "bytes": 7854,
+    "sha256": "23392fc58d629c6efd3b778b8d3a46518099a3424013898baaf403c8677d7c16",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "23392fc58d629c6efd3b778b8d3a46518099a3424013898baaf403c8677d7c16"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.sessions.js",
+    "file": "82c0114e4923f17e_boxjs.revert.usercfgs.sessions.js",
+    "status": "ok",
+    "bytes": 7941,
+    "sha256": "f1edc9af5a65f612419f88f1e369961b53616be50b777cf76b773943b510853e",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "f1edc9af5a65f612419f88f1e369961b53616be50b777cf76b773943b510853e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js",
+    "file": "d9ed405f02e35126_box.switcher.js",
+    "status": "ok",
+    "bytes": 16183,
+    "sha256": "75a7755b18b6fd7fb403f19df5cc3ac7894fb1ffd078715d6fcb067f286f2855",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "75a7755b18b6fd7fb403f19df5cc3ac7894fb1ffd078715d6fcb067f286f2855"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dompling/Script/master/gist/commit.js",
+    "file": "3ce7762ea62a9df0_commit.js",
+    "status": "ok",
+    "bytes": 10060,
+    "sha256": "0c8af0f19c6014633f0255f53f5426c96f019b6c9db542470c922d66b765975f",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "0c8af0f19c6014633f0255f53f5426c96f019b6c9db542470c922d66b765975f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.boxjs.js",
+    "file": "45da4900046aec9b_boxjs.revert.boxjs.js",
+    "status": "ok",
+    "bytes": 8384,
+    "sha256": "8ddb65f8e9aef5bf35f760efa56ba248bdcc46724d585f3deac27e8cdc6b3d6e",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "8ddb65f8e9aef5bf35f760efa56ba248bdcc46724d585f3deac27e8cdc6b3d6e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dompling/Script/master/gist/restore.js",
+    "file": "31f5ccf44a673d17_restore.js",
+    "status": "ok",
+    "bytes": 14906,
+    "sha256": "d210658016f6bb97cc485456c515f06fef7ffeee1547bff3343219e569aae33b",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "d210658016f6bb97cc485456c515f06fef7ffeee1547bff3343219e569aae33b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.baks.js",
+    "file": "b07cbaeff33ea86c_boxjs.revert.baks.js",
+    "status": "ok",
+    "bytes": 8021,
+    "sha256": "26ab5b07fc1dcb07c694c48f124dc3b489f4fb1dd270828530fe298f131339ba",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "26ab5b07fc1dcb07c694c48f124dc3b489f4fb1dd270828530fe298f131339ba"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.caches.js",
+    "file": "b917a96ec1554594_boxjs.revert.caches.js",
+    "status": "ok",
+    "bytes": 7936,
+    "sha256": "5a269f7d695cd6ab6fe9df7f0e384f055121489ad48e738874fbb433704de491",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "5a269f7d695cd6ab6fe9df7f0e384f055121489ad48e738874fbb433704de491"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js",
+    "file": "1aa59bfd4624a5b7_backup.js",
+    "status": "ok",
+    "bytes": 22545,
+    "sha256": "6cf70050b4b0e29044437c9b6630908aa7fc6523be1a885d06de2c50ddf54d29",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "39f30ed81580151328e5bf1ddb2470adbb83346a5353e8092ac506fa9499cc42"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.favapps.js",
+    "file": "b809bd2f924a874a_boxjs.revert.usercfgs.favapps.js",
+    "status": "ok",
+    "bytes": 7930,
+    "sha256": "6ced0c81fc1729c4185e2b3d1c0b20313a1cc07a4eaf9be810cc37d906af9dae",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "6ced0c81fc1729c4185e2b3d1c0b20313a1cc07a4eaf9be810cc37d906af9dae"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/luestr/IconResource/main/KeLee_icon.json",
+    "file": "dec4dc51468f3b0e_KeLee_icon.json",
+    "status": "ok",
+    "bytes": 52132,
+    "sha256": "8b42247d9152e12fda33470f0db5e66a6e040108aedb2d0274d15fcf678ce469",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/71d45f38fd72e70b_script-hub.js",
+      "kelee-plugins/scripts/d1171e6520deae64_Rewrite-Parser.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "8b42247d9152e12fda33470f0db5e66a6e040108aedb2d0274d15fcf678ce469"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/js-base64@3.7.5/base64.min.js",
+    "file": "a3f89bee2b17a0c0_base64.min.js",
+    "status": "ok",
+    "bytes": 5092,
+    "sha256": "7f28bbd7c917e5acca46046ad33553301c1b7ca2b25b046028a7a084624cf023",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/d02959dd3e6428cf_WPS_checkin.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "7f28bbd7c917e5acca46046ad33553301c1b7ca2b25b046028a7a084624cf023"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/fabric@latest/dist/fabric.min.js",
+    "file": "1a3e5dfce539d337_fabric.min.js",
+    "status": "ok",
+    "bytes": 313837,
+    "sha256": "87e648f362a25983a54024e98249d772a9d12e138a1c72af40af5b4a14fdd3a4",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/d02959dd3e6428cf_WPS_checkin.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "87e648f362a25983a54024e98249d772a9d12e138a1c72af40af5b4a14fdd3a4"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/crypto-js/crypto-js.min.js",
+    "file": "80c24817928026ef_crypto-js.min.js",
+    "status": "ok",
+    "bytes": 63432,
+    "sha256": "33774f8a5df2f0cebb375107a18ed357958879bbfe35c807e27f4492a6b0720f",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/d02959dd3e6428cf_WPS_checkin.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "33774f8a5df2f0cebb375107a18ed357958879bbfe35c807e27f4492a6b0720f"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/crypto-js/md5.min.js",
+    "file": "da5de4b5915af5f5_md5.min.js",
+    "status": "ok",
+    "bytes": 3515,
+    "sha256": "0ae1a5257ec83f96853a80162b10dfae29e7f3df53ffe61a3d2fc4ffd5d61e46",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/d02959dd3e6428cf_WPS_checkin.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "0ae1a5257ec83f96853a80162b10dfae29e7f3df53ffe61a3d2fc4ffd5d61e46"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/dayjs/dayjs.min.js",
+    "file": "da679989ae11ea4b_dayjs.min.js",
+    "status": "ok",
+    "bytes": 7161,
+    "sha256": "0198dd0b1f760cded169c7e7ff7eaf56bc36c4c22c7c9b7c683e59437ed8700e",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/d02959dd3e6428cf_WPS_checkin.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "0198dd0b1f760cded169c7e7ff7eaf56bc36c4c22c7c9b7c683e59437ed8700e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/body-rewrite.js",
+    "file": "aa0bfa004a764fe1_body-rewrite.js",
+    "status": "ok",
+    "bytes": 13050,
+    "sha256": "288af1f3cdc9a0e834fe5ecebc25550af9abdb953e0953eb05593c31763972bb",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/d1171e6520deae64_Rewrite-Parser.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "288af1f3cdc9a0e834fe5ecebc25550af9abdb953e0953eb05593c31763972bb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-header.js",
+    "file": "d2b0ac1a1c7a2227_replace-header.js",
+    "status": "ok",
+    "bytes": 13471,
+    "sha256": "93007181bcfd1dee1eac8e6449b3f2243681761fd4aef09fddcca4676a8a0335",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/d1171e6520deae64_Rewrite-Parser.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "93007181bcfd1dee1eac8e6449b3f2243681761fd4aef09fddcca4676a8a0335"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/echo-response.js",
+    "file": "5cc6995ffe48ac6f_echo-response.js",
+    "status": "ok",
+    "bytes": 20109,
+    "sha256": "d81544da12c93b5c4b73573223b59505da7496323d3c6af7ba7327b18f4b3659",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/d1171e6520deae64_Rewrite-Parser.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "d81544da12c93b5c4b73573223b59505da7496323d3c6af7ba7327b18f4b3659"
+  },
+  {
+    "url": "https://kelee.one/Resource/JavaScript/PinDuoDuo/9410-b8806e870a26db7d.js",
+    "file": "e0c5ffdcc51ec9b7_9410-b8806e870a26db7d.js",
+    "status": "ok",
+    "bytes": 5131,
+    "sha256": "e8e4f0e81525d314a7bc6af0fa45600b7d49b098f71f53ab36155d9ebd327ba7",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/scripts/ea8de3d9034591b6_PinDuoDuo_remove_ads.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "e8e4f0e81525d314a7bc6af0fa45600b7d49b098f71f53ab36155d9ebd327ba7"
+  },
+  {
+    "url": "https://gist.githubusercontent.com/chavyleung/9d53fc4809eb41dca5f5923790ec5554/raw/09742d3473420d8e0bd7b02a910849f65af879fa/chavy.app.sub.simple.json",
+    "file": "662fa07303ace64e_chavy.app.sub.simple.json",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://gist.githubusercontent.com/chavyleung/9d53fc4809eb41dca5f5923790ec5554/raw/09742d3473420d8e0bd7b02a910849f65af879fa/chavy.app.sub.simple.json",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/f046c9825c433d6e_box.release.json"
+    ],
+    "depth": 1
+  },
+  {
+    "url": "https://gist.githubusercontent.com/chavyleung/9d53fc4809eb41dca5f5923790ec5554/raw/4d8b140ba149c33aa1fc622e93c4035ae74a73bb/chavy.app.sub.simple.json",
+    "file": "779996646009ca5e_chavy.app.sub.simple.json",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://gist.githubusercontent.com/chavyleung/9d53fc4809eb41dca5f5923790ec5554/raw/4d8b140ba149c33aa1fc622e93c4035ae74a73bb/chavy.app.sub.simple.json",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/f046c9825c433d6e_box.release.json"
+    ],
+    "depth": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json",
+    "file": "7f6059f32c177947_sunert.boxjs.json",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/f046c9825c433d6e_box.release.json"
+    ],
+    "depth": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json",
+    "file": "c83de47f3a1a9261_chavy.boxjs.json",
+    "status": "ok",
+    "bytes": 23543,
+    "sha256": "78a0c44fb80964425692f25623972b428947fbbc27e2dd5ad98cc71a4ea3d3e4",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/f046c9825c433d6e_box.release.json"
+    ],
+    "depth": 1,
+    "saved_sha256": "936eb375bda6c4e4116c5dd563df7e257c34710aa0b1badb77319a1b9742c90a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json",
+    "file": "9960af0801a7be32_NobyDa_BoxJs.json",
+    "status": "ok",
+    "bytes": 33742,
+    "sha256": "64c0e7b74ccccf77f357416e133e5731e5256496536dfcc69837fb626f858139",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/f046c9825c433d6e_box.release.json"
+    ],
+    "depth": 1,
+    "saved_sha256": "78ce05691bbb7734fde7a440f56236c22bb27110fd8723958302d17c71efb002"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf",
+    "file": "2ceb140b5ec5fdf9_boxjs.rewrite.quanx.conf",
+    "status": "ok",
+    "bytes": 207,
+    "sha256": "39bbc01168931bc67f333468c743b8022d770e240d41b36847bc96a2aa5510f5",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/f046c9825c433d6e_box.release.json"
+    ],
+    "depth": 1,
+    "saved_sha256": "39bbc01168931bc67f333468c743b8022d770e240d41b36847bc96a2aa5510f5"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.conf",
+    "file": "191afbc0a1745807_boxjs.rewrite.loon.conf",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.conf",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/f046c9825c433d6e_box.release.json"
+    ],
+    "depth": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js",
+    "file": "fc5f7736f7ce1760_10000.js",
+    "status": "ok",
+    "bytes": 72363,
+    "sha256": "a6ed79c4bcc2bf88b233d12ed3922bec01eb8616c1d4cfb7809790b0e2ccef62",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a6ed79c4bcc2bf88b233d12ed3922bec01eb8616c1d4cfb7809790b0e2ccef62"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/suning/suning.js",
+    "file": "7d8dd0563e9ba5d3_suning.js",
+    "status": "ok",
+    "bytes": 13025,
+    "sha256": "e5bc3fae007e7bfb491ecd7a709ab22bcbb5e2cf16dd614514c9e9987683860c",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "e5bc3fae007e7bfb491ecd7a709ab22bcbb5e2cf16dd614514c9e9987683860c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js",
+    "file": "db1d3a4b8c06d9b7_videoqq.js",
+    "status": "ok",
+    "bytes": 5280,
+    "sha256": "92b403bc24c5ae93c3c0aeb771e31e1fa52ae58ff702cdabd46a81835e91d66e",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "92b403bc24c5ae93c3c0aeb771e31e1fa52ae58ff702cdabd46a81835e91d66e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/smzdm.js",
+    "file": "382bc50968689b5a_smzdm.js",
+    "status": "ok",
+    "bytes": 70554,
+    "sha256": "15ad868edda76edf731a33f6a1be1942f179e0c50e631a93a76cce4978b9c40a",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "15ad868edda76edf731a33f6a1be1942f179e0c50e631a93a76cce4978b9c40a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/tongcheng-trip/tongcheng-trip.js",
+    "file": "ff7ed984b5246e27_tongcheng-trip.js",
+    "status": "ok",
+    "bytes": 19939,
+    "sha256": "a6e430ef8ba1cd8cc5aba3ffc0a5960ce11ec7b08dbfeaf774be3edc577d9222",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a6e430ef8ba1cd8cc5aba3ffc0a5960ce11ec7b08dbfeaf774be3edc577d9222"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/apktw/apktw.js",
+    "file": "a84fe1d06141bb79_apktw.js",
+    "status": "ok",
+    "bytes": 4061,
+    "sha256": "a013b8912788b5c753dddf8fd6dc379c3198f7fa591efe675b1d2516d198b1cf",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a013b8912788b5c753dddf8fd6dc379c3198f7fa591efe675b1d2516d198b1cf"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js",
+    "file": "87c19662b5c6918b_tieba.js",
+    "status": "ok",
+    "bytes": 16432,
+    "sha256": "8e1e250de9851d5bc666c76a9fa0c6a985782071df8f50cb01753d4a6f82721b",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "8e1e250de9851d5bc666c76a9fa0c6a985782071df8f50cb01753d4a6f82721b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js",
+    "file": "192706bd8e279995_ximalaya.js",
+    "status": "ok",
+    "bytes": 13764,
+    "sha256": "a00c8a2d2cfe74f4dc4b6dc1543d34d76a945a3ecc1927d555741c4cf00e1303",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a00c8a2d2cfe74f4dc4b6dc1543d34d76a945a3ecc1927d555741c4cf00e1303"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/neteasenews/neteasenews.js",
+    "file": "b12627dbd2fdcc68_neteasenews.js",
+    "status": "ok",
+    "bytes": 2549,
+    "sha256": "4cd42027aa788aceec5bdd98f66acfd8c0d42f4188cfe372da8fc504bb89d855",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "4cd42027aa788aceec5bdd98f66acfd8c0d42f4188cfe372da8fc504bb89d855"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/noteyoudao/noteyoudao.js",
+    "file": "258fac29bd9e0f9b_noteyoudao.js",
+    "status": "ok",
+    "bytes": 10471,
+    "sha256": "f09a6687a62b270340d9e5b65f5f7e5949a273e29ac1682f69615d5dd0f11c60",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "f09a6687a62b270340d9e5b65f5f7e5949a273e29ac1682f69615d5dd0f11c60"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/mgtv/mgtv.js",
+    "file": "06c6c3d1d84d2569_mgtv.js",
+    "status": "ok",
+    "bytes": 2250,
+    "sha256": "220c26cebf790e780b3058c33531c1ac20366b7cec32cd2dcfc01fc31b31ee79",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "220c26cebf790e780b3058c33531c1ac20366b7cec32cd2dcfc01fc31b31ee79"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/feng/feng.js",
+    "file": "e9b33beb83c004cc_feng.js",
+    "status": "ok",
+    "bytes": 70083,
+    "sha256": "799f52e51ec939f749a35dac5f45c5546ba6e2a153ef63fed1be3239fdc2b937",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "799f52e51ec939f749a35dac5f45c5546ba6e2a153ef63fed1be3239fdc2b937"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/v2ex/v2ex.js",
+    "file": "3163d904204efad4_v2ex.js",
+    "status": "ok",
+    "bytes": 1495,
+    "sha256": "ac6c40f6b7e325d2be7ae46b27aaa7144dc5d2c8b2d0bb2fa17d015096d1303c",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "ac6c40f6b7e325d2be7ae46b27aaa7144dc5d2c8b2d0bb2fa17d015096d1303c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.js",
+    "file": "fe3fa95b46172394_wps.js",
+    "status": "ok",
+    "bytes": 20531,
+    "sha256": "5bf3af6f97c8ad6e868d1bff027fdb80435bb15654fb5bc71f0228d36f5158bc",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "5bf3af6f97c8ad6e868d1bff027fdb80435bb15654fb5bc71f0228d36f5158bc"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js",
+    "file": "8efdc78956bd41aa_sfexpress.js",
+    "status": "ok",
+    "bytes": 11277,
+    "sha256": "7cdeea544f8e0d5458932bab4d63c0c34f8f1c60f13335dc3b4e2f4336e04e1b",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "7cdeea544f8e0d5458932bab4d63c0c34f8f1c60f13335dc3b4e2f4336e04e1b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/ithome/ithome.js",
+    "file": "8ababb31a5b00396_ithome.js",
+    "status": "ok",
+    "bytes": 60298,
+    "sha256": "e3623683a0ccc3c875ff246ffeb40f0fd47152e86121c4a538f7d3a7baeebbb3",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "e3623683a0ccc3c875ff246ffeb40f0fd47152e86121c4a538f7d3a7baeebbb3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/everphoto/everphoto.js",
+    "file": "522fa72d3c9ab6f1_everphoto.js",
+    "status": "ok",
+    "bytes": 3313,
+    "sha256": "b77db95d9aea45ba23ccaec03ef57522b2fc6c5f5dab51347c292d7851e29cd5",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "b77db95d9aea45ba23ccaec03ef57522b2fc6c5f5dab51347c292d7851e29cd5"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/wanda/wanda.js",
+    "file": "4c87cd76df15a4d6_wanda.js",
+    "status": "ok",
+    "bytes": 21308,
+    "sha256": "a4d816107d557324bc9b370746497be56ca1d1c41e341a0b5637241922b998f8",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a4d816107d557324bc9b370746497be56ca1d1c41e341a0b5637241922b998f8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/qmkg/qmkg.js",
+    "file": "2aaf919cbb2529bf_qmkg.js",
+    "status": "ok",
+    "bytes": 2295,
+    "sha256": "540193ab2f4ab7774007140bb0f796016818c8ad90e4fafd62bc8075a1a391c4",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "540193ab2f4ab7774007140bb0f796016818c8ad90e4fafd62bc8075a1a391c4"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/flyertea/flyertea.js",
+    "file": "77cff5105adad277_flyertea.js",
+    "status": "ok",
+    "bytes": 9122,
+    "sha256": "b25583647bef0dc3516c0d6c66dcbdc663cc30f4f2954ed818fce25bc69d7567",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "b25583647bef0dc3516c0d6c66dcbdc663cc30f4f2954ed818fce25bc69d7567"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/jd/jd.618.js",
+    "file": "b283cacf972ffe28_jd.618.js",
+    "status": "ok",
+    "bytes": 15260,
+    "sha256": "ee527650fcbcaf9102481933a6377b571f0b7b54ad9d5031df3b371f89b8bbf8",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "ee527650fcbcaf9102481933a6377b571f0b7b54ad9d5031df3b371f89b8bbf8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/testflight/testflight.js",
+    "file": "80046b88bd68747e_testflight.js",
+    "status": "ok",
+    "bytes": 11726,
+    "sha256": "4972cd33e5a1c861d8becbf52d1772208a93c95b0a73fe6ac0f4d8908974f804",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "4972cd33e5a1c861d8becbf52d1772208a93c95b0a73fe6ac0f4d8908974f804"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/pagoda/pagoda.js",
+    "file": "dbbd641b5f393330_pagoda.js",
+    "status": "ok",
+    "bytes": 8390,
+    "sha256": "b7d437a961e70af8d61817523b329caf526029a76837f4511f6b08df9d282019",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "b7d437a961e70af8d61817523b329caf526029a76837f4511f6b08df9d282019"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js",
+    "file": "f243522042589c6b_bilibili.js",
+    "status": "ok",
+    "bytes": 14269,
+    "sha256": "c5477a0b97f10ddd7d2cad6b969279e890a5a548e07b04e153e0de7a42730cc2",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "c5477a0b97f10ddd7d2cad6b969279e890a5a548e07b04e153e0de7a42730cc2"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/fandeng/fandeng.js",
+    "file": "88814884912fff3c_fandeng.js",
+    "status": "ok",
+    "bytes": 2033,
+    "sha256": "e6d1e9c0cc8ceeb9f604b19c49bdbe7721e60835a6b93ab4935e7dae5c489a58",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "e6d1e9c0cc8ceeb9f604b19c49bdbe7721e60835a6b93ab4935e7dae5c489a58"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/zxhc/zxhc.js",
+    "file": "fab55fe8a305bde8_zxhc.js",
+    "status": "ok",
+    "bytes": 10063,
+    "sha256": "f4da18928f828091c6b798eb2674af829fdf8ec11a8a9eefcb9e5658d25ccccc",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "f4da18928f828091c6b798eb2674af829fdf8ec11a8a9eefcb9e5658d25ccccc"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/nfzm/nfzm.js",
+    "file": "2ef0e114591f4da0_nfzm.js",
+    "status": "ok",
+    "bytes": 9202,
+    "sha256": "4b19ff60fc8b69d54d99ac0495c9e3b7e1a484585563d78b18c4e13d29590b86",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "4b19ff60fc8b69d54d99ac0495c9e3b7e1a484585563d78b18c4e13d29590b86"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/neteasemusic.js",
+    "file": "698781081d8f1924_neteasemusic.js",
+    "status": "ok",
+    "bytes": 5470,
+    "sha256": "768ebfd38c2c1cd410b44968ddcf5bc2acaa2ec86286e400b18313dbfdabe8eb",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "768ebfd38c2c1cd410b44968ddcf5bc2acaa2ec86286e400b18313dbfdabe8eb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js",
+    "file": "4df766fca9538af5_meituan.js",
+    "status": "ok",
+    "bytes": 2798,
+    "sha256": "a89b665be497d7e1c70624cbe7c117d01c6a690cfcdc7814e3da52ef9e87296a",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a89b665be497d7e1c70624cbe7c117d01c6a690cfcdc7814e3da52ef9e87296a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/acfun/acfun.js",
+    "file": "8be042eae03a4090_acfun.js",
+    "status": "ok",
+    "bytes": 3086,
+    "sha256": "05c9b56cd759df42556ecdf964100951f8a39286fef9fb432ed5aa2fda79254e",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "05c9b56cd759df42556ecdf964100951f8a39286fef9fb432ed5aa2fda79254e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js",
+    "file": "3a8960870113aba0_10010.js",
+    "status": "ok",
+    "bytes": 11088,
+    "sha256": "f7cba8157dc2167f4d0069bbfaa7d150acd147854ddcb3ee73865bd3123f4803",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "f7cba8157dc2167f4d0069bbfaa7d150acd147854ddcb3ee73865bd3123f4803"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/follow/follow.js",
+    "file": "09694ce44c895829_follow.js",
+    "status": "ok",
+    "bytes": 10520,
+    "sha256": "700f3c9567fa6dcc818eda97ca579c886316af9b750673c4e6e55ef5bc1e3846",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "700f3c9567fa6dcc818eda97ca579c886316af9b750673c4e6e55ef5bc1e3846"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/gdoil/gdoil.js",
+    "file": "19b2f23f2bb81886_gdoil.js",
+    "status": "ok",
+    "bytes": 2074,
+    "sha256": "30f5181408c59e9d2d3203bee4c1bec715ef796791ea8b54a3fa8d7f019be868",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "30f5181408c59e9d2d3203bee4c1bec715ef796791ea8b54a3fa8d7f019be868"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Ctrip-DailyBonus/Ctrip.js",
+    "file": "2bf6c9a2e8995daa_Ctrip.js",
+    "status": "ok",
+    "bytes": 19736,
+    "sha256": "11a7bab79147a1ff287157d2ee1f6518e9cf5bb7112e31da5131bf23a2927309",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "11a7bab79147a1ff287157d2ee1f6518e9cf5bb7112e31da5131bf23a2927309"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js",
+    "file": "b6614f357a35b21d_52pojie.js",
+    "status": "ok",
+    "bytes": 10731,
+    "sha256": "1965b508df417ca40c52ff2f472cc53360b67d4c2fee9a51afc613a3d07f4c8f",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "1965b508df417ca40c52ff2f472cc53360b67d4c2fee9a51afc613a3d07f4c8f"
+  },
+  {
+    "url": "https://gist.githubusercontent.com/NobyDa/d025c53d3922657f921b983ce129fc1d/raw/TestFlightAccountRemoveCache.js",
+    "file": "44a4c97144a60477_TestFlightAccountRemoveCache.js",
+    "status": "ok",
+    "bytes": 765,
+    "sha256": "a1d547777bfb0ac47afe633783559a4925a19540e3b9f5d8953dc861a2fffe8e",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a1d547777bfb0ac47afe633783559a4925a19540e3b9f5d8953dc861a2fffe8e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Bahamut/BahamutDailyBonus.js",
+    "file": "7dcb39cdac92e1f2_BahamutDailyBonus.js",
+    "status": "ok",
+    "bytes": 33693,
+    "sha256": "f5aef679a6771b11e8a9ba6c69f01d99b30ae937fce6b8498a96e444ff43294a",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "f5aef679a6771b11e8a9ba6c69f01d99b30ae937fce6b8498a96e444ff43294a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js",
+    "file": "852a9038b033944e_iQIYI.js",
+    "status": "ok",
+    "bytes": 26739,
+    "sha256": "d89c064a84fb3e17e19eac30dbe39969dc321b57ff1a485fb526ec785fc431a7",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "d89c064a84fb3e17e19eac30dbe39969dc321b57ff1a485fb526ec785fc431a7"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/KuaiKan-DailyBonus/KKMH.js",
+    "file": "40a4b594fb7f0d73_KKMH.js",
+    "status": "ok",
+    "bytes": 15632,
+    "sha256": "a495149d183ba7ac1bf1b70ae0842143882e4346715dcefbcc3f77ad12a31d0a",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a495149d183ba7ac1bf1b70ae0842143882e4346715dcefbcc3f77ad12a31d0a"
+  },
+  {
+    "url": "https://gist.githubusercontent.com/NobyDa/91cbe57dd50b3588a975af8922507a72/raw/JD_initial.js",
+    "file": "87a3d3d1202fa91e_JD_initial.js",
+    "status": "ok",
+    "bytes": 1587,
+    "sha256": "f27faa256a5f464142c467fef470a5f8a52f12cfa7c4da757a36cabd79737d0c",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "f27faa256a5f464142c467fef470a5f8a52f12cfa7c4da757a36cabd79737d0c"
+  },
+  {
+    "url": "https://gist.githubusercontent.com/NobyDa/830932e4526c9c84169020a56c3ef199/raw/GOOGLE_CAPTCHA_TEST_POLICY.js",
+    "file": "f034f063597bf8fe_GOOGLE_CAPTCHA_TEST_POLICY.js",
+    "status": "ok",
+    "bytes": 2979,
+    "sha256": "d1a76a3e667786913078cb00775dfa01ef6dbcc6a473cb398bcbfb02e8ee7de1",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "d1a76a3e667786913078cb00775dfa01ef6dbcc6a473cb398bcbfb02e8ee7de1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/Manga.js",
+    "file": "c683fd259fa40818_Manga.js",
+    "status": "ok",
+    "bytes": 19579,
+    "sha256": "149d53f4bd92eaa50678c04a5d35be68ee5573e10c6e9b5317f0d602a476e9a1",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "149d53f4bd92eaa50678c04a5d35be68ee5573e10c6e9b5317f0d602a476e9a1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/ExchangePoints.js",
+    "file": "c757e87787611947_ExchangePoints.js",
+    "status": "ok",
+    "bytes": 24064,
+    "sha256": "9c9b014dd1247e80a7639675cc1df62ed468e52f118ccc1ca64ce4fc05041cb9",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "9c9b014dd1247e80a7639675cc1df62ed468e52f118ccc1ca64ce4fc05041cb9"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js",
+    "file": "3245cd2f154be3d8_Bili_Auto_Regions.js",
+    "status": "ok",
+    "bytes": 21715,
+    "sha256": "077fcde6e6b8b201a68576fb68da959a381464b026ec52f740f9c42daa8da1aa",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "077fcde6e6b8b201a68576fb68da959a381464b026ec52f740f9c42daa8da1aa"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js",
+    "file": "335470c27800b55e_TestFlightAccount.js",
+    "status": "ok",
+    "bytes": 19268,
+    "sha256": "30fbd3001671beb349190fe0214b1a23f4628fec922ece2227247b2f31170d09",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "30fbd3001671beb349190fe0214b1a23f4628fec922ece2227247b2f31170d09"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js",
+    "file": "870512f6b0ab3cdd_JD_DailyBonus.js",
+    "status": "ok",
+    "bytes": 89770,
+    "sha256": "21dc2ffeef61c15682ae25a4c7f478ae8706bbd452babf7bc15c28e6cefc3bb6",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "21dc2ffeef61c15682ae25a4c7f478ae8706bbd452babf7bc15c28e6cefc3bb6"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Google_CAPTCHA.js",
+    "file": "a6c553d4befb748c_Google_CAPTCHA.js",
+    "status": "ok",
+    "bytes": 6624,
+    "sha256": "071501572cb154ee55f834f78c7ad6677caebcc55619ae28a03f6375315a162d",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "071501572cb154ee55f834f78c7ad6677caebcc55619ae28a03f6375315a162d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js",
+    "file": "9a7d57126705d5d5_TieBa.js",
+    "status": "ok",
+    "bytes": 10356,
+    "sha256": "1555853fac5929864972dc66e96628fd8af8486cd4a07fa163f8f084d698df17",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "1555853fac5929864972dc66e96628fd8af8486cd4a07fa163f8f084d698df17"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/sazs34/TaskConfig/master/task/sign_baidu_tieba_v2.js",
+    "file": "0658b9ff59edfb81_sign_baidu_tieba_v2.js",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://raw.githubusercontent.com/sazs34/TaskConfig/master/task/sign_baidu_tieba_v2.js",
+    "group": "kelee-plugins",
+    "references": [
+      "kelee-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NSRingo/QWeather-Location-Grid/main/data/qweather-china-city-list-grid.json",
+    "file": "dd2dcafa91eb6ac6_qweather-china-city-list-grid.json",
+    "status": "ok",
+    "bytes": 892348,
+    "sha256": "5080e37990cda958f562c9c1cea7b80bb9e489b70fbb04b3cbfe653234041072",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/18c919f8aa119238_request.bundle.js",
+      "loonlab-plugins/scripts/8ed351f2432b0e50_response.bundle.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "5080e37990cda958f562c9c1cea7b80bb9e489b70fbb04b3cbfe653234041072"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/body-rewrite.js",
+    "file": "aa0bfa004a764fe1_body-rewrite.js",
+    "status": "ok",
+    "bytes": 13050,
+    "sha256": "288af1f3cdc9a0e834fe5ecebc25550af9abdb953e0953eb05593c31763972bb",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/1a270e11c684f528_Rewrite-Parser.beta.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "288af1f3cdc9a0e834fe5ecebc25550af9abdb953e0953eb05593c31763972bb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/luestr/IconResource/main/KeLee_icon.json",
+    "file": "dec4dc51468f3b0e_KeLee_icon.json",
+    "status": "ok",
+    "bytes": 52132,
+    "sha256": "8b42247d9152e12fda33470f0db5e66a6e040108aedb2d0274d15fcf678ce469",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/1a270e11c684f528_Rewrite-Parser.beta.js",
+      "loonlab-plugins/scripts/bb6707990055d08a_script-hub.beta.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "8b42247d9152e12fda33470f0db5e66a6e040108aedb2d0274d15fcf678ce469"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-header.js",
+    "file": "d2b0ac1a1c7a2227_replace-header.js",
+    "status": "ok",
+    "bytes": 13471,
+    "sha256": "93007181bcfd1dee1eac8e6449b3f2243681761fd4aef09fddcca4676a8a0335",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/1a270e11c684f528_Rewrite-Parser.beta.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "93007181bcfd1dee1eac8e6449b3f2243681761fd4aef09fddcca4676a8a0335"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/echo-response.js",
+    "file": "5cc6995ffe48ac6f_echo-response.js",
+    "status": "ok",
+    "bytes": 20109,
+    "sha256": "d81544da12c93b5c4b73573223b59505da7496323d3c6af7ba7327b18f4b3659",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/1a270e11c684f528_Rewrite-Parser.beta.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "d81544da12c93b5c4b73573223b59505da7496323d3c6af7ba7327b18f4b3659"
+  },
+  {
+    "url": "https://gist.githubusercontent.com/Yu9191/0c88077bc4251d0803810db88334d336/raw/r2-dict.json",
+    "file": "f2ef29cf12d8cce1_r2-dict.json",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://gist.githubusercontent.com/Yu9191/0c88077bc4251d0803810db88334d336/raw/r2-dict.json",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/24bc13763e144e10_52ywy.js"
+    ],
+    "depth": 0
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/release/box.release.json",
+    "file": "f046c9825c433d6e_box.release.json",
+    "status": "ok",
+    "bytes": 84016,
+    "sha256": "02596f6a2535c122a2889e53be1ac9b7c74357eb1509b25e40ab54e617c04409",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "b5ede7749a124843562dfd68c6ab5965b079aa9e79fe07b1febb95c23d5630e8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.js",
+    "file": "848b4373acd97c04_boxjs.revert.usercfgs.js",
+    "status": "ok",
+    "bytes": 7854,
+    "sha256": "23392fc58d629c6efd3b778b8d3a46518099a3424013898baaf403c8677d7c16",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "23392fc58d629c6efd3b778b8d3a46518099a3424013898baaf403c8677d7c16"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.sessions.js",
+    "file": "82c0114e4923f17e_boxjs.revert.usercfgs.sessions.js",
+    "status": "ok",
+    "bytes": 7941,
+    "sha256": "f1edc9af5a65f612419f88f1e369961b53616be50b777cf76b773943b510853e",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "f1edc9af5a65f612419f88f1e369961b53616be50b777cf76b773943b510853e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js",
+    "file": "d9ed405f02e35126_box.switcher.js",
+    "status": "ok",
+    "bytes": 16183,
+    "sha256": "75a7755b18b6fd7fb403f19df5cc3ac7894fb1ffd078715d6fcb067f286f2855",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "75a7755b18b6fd7fb403f19df5cc3ac7894fb1ffd078715d6fcb067f286f2855"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dompling/Script/master/gist/commit.js",
+    "file": "3ce7762ea62a9df0_commit.js",
+    "status": "ok",
+    "bytes": 10060,
+    "sha256": "0c8af0f19c6014633f0255f53f5426c96f019b6c9db542470c922d66b765975f",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "0c8af0f19c6014633f0255f53f5426c96f019b6c9db542470c922d66b765975f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.boxjs.js",
+    "file": "45da4900046aec9b_boxjs.revert.boxjs.js",
+    "status": "ok",
+    "bytes": 8384,
+    "sha256": "8ddb65f8e9aef5bf35f760efa56ba248bdcc46724d585f3deac27e8cdc6b3d6e",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "8ddb65f8e9aef5bf35f760efa56ba248bdcc46724d585f3deac27e8cdc6b3d6e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dompling/Script/master/gist/restore.js",
+    "file": "31f5ccf44a673d17_restore.js",
+    "status": "ok",
+    "bytes": 14906,
+    "sha256": "d210658016f6bb97cc485456c515f06fef7ffeee1547bff3343219e569aae33b",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "d210658016f6bb97cc485456c515f06fef7ffeee1547bff3343219e569aae33b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.baks.js",
+    "file": "b07cbaeff33ea86c_boxjs.revert.baks.js",
+    "status": "ok",
+    "bytes": 8021,
+    "sha256": "26ab5b07fc1dcb07c694c48f124dc3b489f4fb1dd270828530fe298f131339ba",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "26ab5b07fc1dcb07c694c48f124dc3b489f4fb1dd270828530fe298f131339ba"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.caches.js",
+    "file": "b917a96ec1554594_boxjs.revert.caches.js",
+    "status": "ok",
+    "bytes": 7936,
+    "sha256": "5a269f7d695cd6ab6fe9df7f0e384f055121489ad48e738874fbb433704de491",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "5a269f7d695cd6ab6fe9df7f0e384f055121489ad48e738874fbb433704de491"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js",
+    "file": "1aa59bfd4624a5b7_backup.js",
+    "status": "ok",
+    "bytes": 22545,
+    "sha256": "6cf70050b4b0e29044437c9b6630908aa7fc6523be1a885d06de2c50ddf54d29",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "f1a9d3da7cc0974cb564f0666417fa031145548e8a05a2f1e242ddfc8f36e38f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/scripts/boxjs.revert.usercfgs.favapps.js",
+    "file": "b809bd2f924a874a_boxjs.revert.usercfgs.favapps.js",
+    "status": "ok",
+    "bytes": 7930,
+    "sha256": "6ced0c81fc1729c4185e2b3d1c0b20313a1cc07a4eaf9be810cc37d906af9dae",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/7055226f4f1d8737_chavy.boxjs.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "6ced0c81fc1729c4185e2b3d1c0b20313a1cc07a4eaf9be810cc37d906af9dae"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/echarts/5.4.3/echarts.min.js",
+    "file": "ff01365e41c73530_echarts.min.js",
+    "status": "ok",
+    "bytes": 1024740,
+    "sha256": "1156429a16a38cb8604dcc6518c19406d4226142d908f8edd2e3531443c54d19",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/9efda76e49d8d158_JingDong.price.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "1156429a16a38cb8604dcc6518c19406d4226142d908f8edd2e3531443c54d19"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/xiaobailian67/Surge/main/SimpleExpressBeta.js",
+    "file": "187cde3ffbcd7e35_SimpleExpressBeta.js",
+    "status": "ok",
+    "bytes": 21110,
+    "sha256": "8d349c43db4974a98db0508360be7dd07711e85ed44b0e0e089c965250d433f9",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/d7d2d636a076e0b3_AppleStoreAPI.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "8d349c43db4974a98db0508360be7dd07711e85ed44b0e0e089c965250d433f9"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/xiaobailian67/Surge/main/utils.js",
+    "file": "f6c393ae158dca06_utils.js",
+    "status": "ok",
+    "bytes": 13540,
+    "sha256": "2f2cc15b9d62fe4d012d866c847be7e5f7aff71dbd2bd43f2893b43ff2ba55a1",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/d7d2d636a076e0b3_AppleStoreAPI.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "2f2cc15b9d62fe4d012d866c847be7e5f7aff71dbd2bd43f2893b43ff2ba55a1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/xiaobailian67/Surge/main/plist-complete.js",
+    "file": "00bd3cc60a5cea28_plist-complete.js",
+    "status": "ok",
+    "bytes": 26238,
+    "sha256": "a652937e66fafdfa5e0a50d3b20a8bcb8d11802edea8de445fe0001389d97ae2",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/d7d2d636a076e0b3_AppleStoreAPI.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "a652937e66fafdfa5e0a50d3b20a8bcb8d11802edea8de445fe0001389d97ae2"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/Yuheng0101/X@main/Utils/Buffer.min.js",
+    "file": "f5b381dd4bd222b2_Buffer.min.js",
+    "status": "ok",
+    "bytes": 23311,
+    "sha256": "402930094ef74336026e3400f44a0cecf1864ea8ab7827b5949360b97f344730",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/d9e008ff89a1e56e_spider.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "402930094ef74336026e3400f44a0cecf1864ea8ab7827b5949360b97f344730"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/Yuheng0101/X@main/Utils/cheerio.js",
+    "file": "32cb8a016e05622e_cheerio.js",
+    "status": "ok",
+    "bytes": 364040,
+    "sha256": "2dc83581b1feceb20f04d65287cd148edea5b0379548a955f85102010743abd9",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/d9e008ff89a1e56e_spider.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "2dc83581b1feceb20f04d65287cd148edea5b0379548a955f85102010743abd9"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js",
+    "file": "3f7df9a1f8184e70_crypto-js.min.js",
+    "status": "ok",
+    "bytes": 60819,
+    "sha256": "769a555de553babc35a3338f344dd7aa16260c93cea2c7db290707c90484e7cc",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/scripts/d9e008ff89a1e56e_spider.js"
+    ],
+    "depth": 0,
+    "saved_sha256": "769a555de553babc35a3338f344dd7aa16260c93cea2c7db290707c90484e7cc"
+  },
+  {
+    "url": "https://gist.githubusercontent.com/chavyleung/9d53fc4809eb41dca5f5923790ec5554/raw/09742d3473420d8e0bd7b02a910849f65af879fa/chavy.app.sub.simple.json",
+    "file": "662fa07303ace64e_chavy.app.sub.simple.json",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://gist.githubusercontent.com/chavyleung/9d53fc4809eb41dca5f5923790ec5554/raw/09742d3473420d8e0bd7b02a910849f65af879fa/chavy.app.sub.simple.json",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/f046c9825c433d6e_box.release.json"
+    ],
+    "depth": 1
+  },
+  {
+    "url": "https://gist.githubusercontent.com/chavyleung/9d53fc4809eb41dca5f5923790ec5554/raw/4d8b140ba149c33aa1fc622e93c4035ae74a73bb/chavy.app.sub.simple.json",
+    "file": "779996646009ca5e_chavy.app.sub.simple.json",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://gist.githubusercontent.com/chavyleung/9d53fc4809eb41dca5f5923790ec5554/raw/4d8b140ba149c33aa1fc622e93c4035ae74a73bb/chavy.app.sub.simple.json",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/f046c9825c433d6e_box.release.json"
+    ],
+    "depth": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json",
+    "file": "7f6059f32c177947_sunert.boxjs.json",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/f046c9825c433d6e_box.release.json"
+    ],
+    "depth": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json",
+    "file": "c83de47f3a1a9261_chavy.boxjs.json",
+    "status": "ok",
+    "bytes": 23543,
+    "sha256": "78a0c44fb80964425692f25623972b428947fbbc27e2dd5ad98cc71a4ea3d3e4",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/f046c9825c433d6e_box.release.json"
+    ],
+    "depth": 1,
+    "saved_sha256": "1c01dcacf8ed56a70716d98207943de5a5bc0071c2efbff6ccaec77754783fb6"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json",
+    "file": "9960af0801a7be32_NobyDa_BoxJs.json",
+    "status": "ok",
+    "bytes": 33742,
+    "sha256": "64c0e7b74ccccf77f357416e133e5731e5256496536dfcc69837fb626f858139",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/f046c9825c433d6e_box.release.json"
+    ],
+    "depth": 1,
+    "saved_sha256": "03dadc727323a93e351b83a18818d4a0b22cadd2102230283886205c551c565a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf",
+    "file": "2ceb140b5ec5fdf9_boxjs.rewrite.quanx.conf",
+    "status": "ok",
+    "bytes": 207,
+    "sha256": "39bbc01168931bc67f333468c743b8022d770e240d41b36847bc96a2aa5510f5",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/f046c9825c433d6e_box.release.json"
+    ],
+    "depth": 1,
+    "saved_sha256": "39bbc01168931bc67f333468c743b8022d770e240d41b36847bc96a2aa5510f5"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.conf",
+    "file": "191afbc0a1745807_boxjs.rewrite.loon.conf",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.conf",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/f046c9825c433d6e_box.release.json"
+    ],
+    "depth": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ecomfe/zrender/master/LICENSE.txt",
+    "file": "ba6a1102a8dea050_LICENSE.txt",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://raw.githubusercontent.com/ecomfe/zrender/master/LICENSE.txt",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/ff01365e41c73530_echarts.min.js"
+    ],
+    "depth": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js",
+    "file": "fc5f7736f7ce1760_10000.js",
+    "status": "ok",
+    "bytes": 72363,
+    "sha256": "a6ed79c4bcc2bf88b233d12ed3922bec01eb8616c1d4cfb7809790b0e2ccef62",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a6ed79c4bcc2bf88b233d12ed3922bec01eb8616c1d4cfb7809790b0e2ccef62"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/suning/suning.js",
+    "file": "7d8dd0563e9ba5d3_suning.js",
+    "status": "ok",
+    "bytes": 13025,
+    "sha256": "e5bc3fae007e7bfb491ecd7a709ab22bcbb5e2cf16dd614514c9e9987683860c",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "e5bc3fae007e7bfb491ecd7a709ab22bcbb5e2cf16dd614514c9e9987683860c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js",
+    "file": "db1d3a4b8c06d9b7_videoqq.js",
+    "status": "ok",
+    "bytes": 5280,
+    "sha256": "92b403bc24c5ae93c3c0aeb771e31e1fa52ae58ff702cdabd46a81835e91d66e",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "92b403bc24c5ae93c3c0aeb771e31e1fa52ae58ff702cdabd46a81835e91d66e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/smzdm.js",
+    "file": "382bc50968689b5a_smzdm.js",
+    "status": "ok",
+    "bytes": 70554,
+    "sha256": "15ad868edda76edf731a33f6a1be1942f179e0c50e631a93a76cce4978b9c40a",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "15ad868edda76edf731a33f6a1be1942f179e0c50e631a93a76cce4978b9c40a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/tongcheng-trip/tongcheng-trip.js",
+    "file": "ff7ed984b5246e27_tongcheng-trip.js",
+    "status": "ok",
+    "bytes": 19939,
+    "sha256": "a6e430ef8ba1cd8cc5aba3ffc0a5960ce11ec7b08dbfeaf774be3edc577d9222",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a6e430ef8ba1cd8cc5aba3ffc0a5960ce11ec7b08dbfeaf774be3edc577d9222"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/apktw/apktw.js",
+    "file": "a84fe1d06141bb79_apktw.js",
+    "status": "ok",
+    "bytes": 4061,
+    "sha256": "a013b8912788b5c753dddf8fd6dc379c3198f7fa591efe675b1d2516d198b1cf",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a013b8912788b5c753dddf8fd6dc379c3198f7fa591efe675b1d2516d198b1cf"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js",
+    "file": "87c19662b5c6918b_tieba.js",
+    "status": "ok",
+    "bytes": 16432,
+    "sha256": "8e1e250de9851d5bc666c76a9fa0c6a985782071df8f50cb01753d4a6f82721b",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "8e1e250de9851d5bc666c76a9fa0c6a985782071df8f50cb01753d4a6f82721b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js",
+    "file": "192706bd8e279995_ximalaya.js",
+    "status": "ok",
+    "bytes": 13764,
+    "sha256": "a00c8a2d2cfe74f4dc4b6dc1543d34d76a945a3ecc1927d555741c4cf00e1303",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a00c8a2d2cfe74f4dc4b6dc1543d34d76a945a3ecc1927d555741c4cf00e1303"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/neteasenews/neteasenews.js",
+    "file": "b12627dbd2fdcc68_neteasenews.js",
+    "status": "ok",
+    "bytes": 2549,
+    "sha256": "4cd42027aa788aceec5bdd98f66acfd8c0d42f4188cfe372da8fc504bb89d855",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "4cd42027aa788aceec5bdd98f66acfd8c0d42f4188cfe372da8fc504bb89d855"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/noteyoudao/noteyoudao.js",
+    "file": "258fac29bd9e0f9b_noteyoudao.js",
+    "status": "ok",
+    "bytes": 10471,
+    "sha256": "f09a6687a62b270340d9e5b65f5f7e5949a273e29ac1682f69615d5dd0f11c60",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "f09a6687a62b270340d9e5b65f5f7e5949a273e29ac1682f69615d5dd0f11c60"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/mgtv/mgtv.js",
+    "file": "06c6c3d1d84d2569_mgtv.js",
+    "status": "ok",
+    "bytes": 2250,
+    "sha256": "220c26cebf790e780b3058c33531c1ac20366b7cec32cd2dcfc01fc31b31ee79",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "220c26cebf790e780b3058c33531c1ac20366b7cec32cd2dcfc01fc31b31ee79"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/feng/feng.js",
+    "file": "e9b33beb83c004cc_feng.js",
+    "status": "ok",
+    "bytes": 70083,
+    "sha256": "799f52e51ec939f749a35dac5f45c5546ba6e2a153ef63fed1be3239fdc2b937",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "799f52e51ec939f749a35dac5f45c5546ba6e2a153ef63fed1be3239fdc2b937"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/v2ex/v2ex.js",
+    "file": "3163d904204efad4_v2ex.js",
+    "status": "ok",
+    "bytes": 1495,
+    "sha256": "ac6c40f6b7e325d2be7ae46b27aaa7144dc5d2c8b2d0bb2fa17d015096d1303c",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "ac6c40f6b7e325d2be7ae46b27aaa7144dc5d2c8b2d0bb2fa17d015096d1303c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.js",
+    "file": "fe3fa95b46172394_wps.js",
+    "status": "ok",
+    "bytes": 20531,
+    "sha256": "5bf3af6f97c8ad6e868d1bff027fdb80435bb15654fb5bc71f0228d36f5158bc",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "5bf3af6f97c8ad6e868d1bff027fdb80435bb15654fb5bc71f0228d36f5158bc"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js",
+    "file": "8efdc78956bd41aa_sfexpress.js",
+    "status": "ok",
+    "bytes": 11277,
+    "sha256": "7cdeea544f8e0d5458932bab4d63c0c34f8f1c60f13335dc3b4e2f4336e04e1b",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "7cdeea544f8e0d5458932bab4d63c0c34f8f1c60f13335dc3b4e2f4336e04e1b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/ithome/ithome.js",
+    "file": "8ababb31a5b00396_ithome.js",
+    "status": "ok",
+    "bytes": 60298,
+    "sha256": "e3623683a0ccc3c875ff246ffeb40f0fd47152e86121c4a538f7d3a7baeebbb3",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "e3623683a0ccc3c875ff246ffeb40f0fd47152e86121c4a538f7d3a7baeebbb3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/everphoto/everphoto.js",
+    "file": "522fa72d3c9ab6f1_everphoto.js",
+    "status": "ok",
+    "bytes": 3313,
+    "sha256": "b77db95d9aea45ba23ccaec03ef57522b2fc6c5f5dab51347c292d7851e29cd5",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "b77db95d9aea45ba23ccaec03ef57522b2fc6c5f5dab51347c292d7851e29cd5"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/wanda/wanda.js",
+    "file": "4c87cd76df15a4d6_wanda.js",
+    "status": "ok",
+    "bytes": 21308,
+    "sha256": "a4d816107d557324bc9b370746497be56ca1d1c41e341a0b5637241922b998f8",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a4d816107d557324bc9b370746497be56ca1d1c41e341a0b5637241922b998f8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/qmkg/qmkg.js",
+    "file": "2aaf919cbb2529bf_qmkg.js",
+    "status": "ok",
+    "bytes": 2295,
+    "sha256": "540193ab2f4ab7774007140bb0f796016818c8ad90e4fafd62bc8075a1a391c4",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "540193ab2f4ab7774007140bb0f796016818c8ad90e4fafd62bc8075a1a391c4"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/flyertea/flyertea.js",
+    "file": "77cff5105adad277_flyertea.js",
+    "status": "ok",
+    "bytes": 9122,
+    "sha256": "b25583647bef0dc3516c0d6c66dcbdc663cc30f4f2954ed818fce25bc69d7567",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "b25583647bef0dc3516c0d6c66dcbdc663cc30f4f2954ed818fce25bc69d7567"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/jd/jd.618.js",
+    "file": "b283cacf972ffe28_jd.618.js",
+    "status": "ok",
+    "bytes": 15260,
+    "sha256": "ee527650fcbcaf9102481933a6377b571f0b7b54ad9d5031df3b371f89b8bbf8",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "ee527650fcbcaf9102481933a6377b571f0b7b54ad9d5031df3b371f89b8bbf8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/testflight/testflight.js",
+    "file": "80046b88bd68747e_testflight.js",
+    "status": "ok",
+    "bytes": 11726,
+    "sha256": "4972cd33e5a1c861d8becbf52d1772208a93c95b0a73fe6ac0f4d8908974f804",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "4972cd33e5a1c861d8becbf52d1772208a93c95b0a73fe6ac0f4d8908974f804"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/pagoda/pagoda.js",
+    "file": "dbbd641b5f393330_pagoda.js",
+    "status": "ok",
+    "bytes": 8390,
+    "sha256": "b7d437a961e70af8d61817523b329caf526029a76837f4511f6b08df9d282019",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "b7d437a961e70af8d61817523b329caf526029a76837f4511f6b08df9d282019"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js",
+    "file": "f243522042589c6b_bilibili.js",
+    "status": "ok",
+    "bytes": 14269,
+    "sha256": "c5477a0b97f10ddd7d2cad6b969279e890a5a548e07b04e153e0de7a42730cc2",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "c5477a0b97f10ddd7d2cad6b969279e890a5a548e07b04e153e0de7a42730cc2"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/fandeng/fandeng.js",
+    "file": "88814884912fff3c_fandeng.js",
+    "status": "ok",
+    "bytes": 2033,
+    "sha256": "e6d1e9c0cc8ceeb9f604b19c49bdbe7721e60835a6b93ab4935e7dae5c489a58",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "e6d1e9c0cc8ceeb9f604b19c49bdbe7721e60835a6b93ab4935e7dae5c489a58"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/zxhc/zxhc.js",
+    "file": "fab55fe8a305bde8_zxhc.js",
+    "status": "ok",
+    "bytes": 10063,
+    "sha256": "f4da18928f828091c6b798eb2674af829fdf8ec11a8a9eefcb9e5658d25ccccc",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "f4da18928f828091c6b798eb2674af829fdf8ec11a8a9eefcb9e5658d25ccccc"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/nfzm/nfzm.js",
+    "file": "2ef0e114591f4da0_nfzm.js",
+    "status": "ok",
+    "bytes": 9202,
+    "sha256": "4b19ff60fc8b69d54d99ac0495c9e3b7e1a484585563d78b18c4e13d29590b86",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "4b19ff60fc8b69d54d99ac0495c9e3b7e1a484585563d78b18c4e13d29590b86"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/neteasemusic.js",
+    "file": "698781081d8f1924_neteasemusic.js",
+    "status": "ok",
+    "bytes": 5470,
+    "sha256": "768ebfd38c2c1cd410b44968ddcf5bc2acaa2ec86286e400b18313dbfdabe8eb",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "768ebfd38c2c1cd410b44968ddcf5bc2acaa2ec86286e400b18313dbfdabe8eb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js",
+    "file": "4df766fca9538af5_meituan.js",
+    "status": "ok",
+    "bytes": 2798,
+    "sha256": "a89b665be497d7e1c70624cbe7c117d01c6a690cfcdc7814e3da52ef9e87296a",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a89b665be497d7e1c70624cbe7c117d01c6a690cfcdc7814e3da52ef9e87296a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/acfun/acfun.js",
+    "file": "8be042eae03a4090_acfun.js",
+    "status": "ok",
+    "bytes": 3086,
+    "sha256": "05c9b56cd759df42556ecdf964100951f8a39286fef9fb432ed5aa2fda79254e",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "05c9b56cd759df42556ecdf964100951f8a39286fef9fb432ed5aa2fda79254e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js",
+    "file": "3a8960870113aba0_10010.js",
+    "status": "ok",
+    "bytes": 11088,
+    "sha256": "f7cba8157dc2167f4d0069bbfaa7d150acd147854ddcb3ee73865bd3123f4803",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "f7cba8157dc2167f4d0069bbfaa7d150acd147854ddcb3ee73865bd3123f4803"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/follow/follow.js",
+    "file": "09694ce44c895829_follow.js",
+    "status": "ok",
+    "bytes": 10520,
+    "sha256": "700f3c9567fa6dcc818eda97ca579c886316af9b750673c4e6e55ef5bc1e3846",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "700f3c9567fa6dcc818eda97ca579c886316af9b750673c4e6e55ef5bc1e3846"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/gdoil/gdoil.js",
+    "file": "19b2f23f2bb81886_gdoil.js",
+    "status": "ok",
+    "bytes": 2074,
+    "sha256": "30f5181408c59e9d2d3203bee4c1bec715ef796791ea8b54a3fa8d7f019be868",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/c83de47f3a1a9261_chavy.boxjs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "30f5181408c59e9d2d3203bee4c1bec715ef796791ea8b54a3fa8d7f019be868"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Ctrip-DailyBonus/Ctrip.js",
+    "file": "2bf6c9a2e8995daa_Ctrip.js",
+    "status": "ok",
+    "bytes": 19736,
+    "sha256": "11a7bab79147a1ff287157d2ee1f6518e9cf5bb7112e31da5131bf23a2927309",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "11a7bab79147a1ff287157d2ee1f6518e9cf5bb7112e31da5131bf23a2927309"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js",
+    "file": "b6614f357a35b21d_52pojie.js",
+    "status": "ok",
+    "bytes": 10731,
+    "sha256": "1965b508df417ca40c52ff2f472cc53360b67d4c2fee9a51afc613a3d07f4c8f",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "1965b508df417ca40c52ff2f472cc53360b67d4c2fee9a51afc613a3d07f4c8f"
+  },
+  {
+    "url": "https://gist.githubusercontent.com/NobyDa/d025c53d3922657f921b983ce129fc1d/raw/TestFlightAccountRemoveCache.js",
+    "file": "44a4c97144a60477_TestFlightAccountRemoveCache.js",
+    "status": "ok",
+    "bytes": 765,
+    "sha256": "a1d547777bfb0ac47afe633783559a4925a19540e3b9f5d8953dc861a2fffe8e",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a1d547777bfb0ac47afe633783559a4925a19540e3b9f5d8953dc861a2fffe8e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Bahamut/BahamutDailyBonus.js",
+    "file": "7dcb39cdac92e1f2_BahamutDailyBonus.js",
+    "status": "ok",
+    "bytes": 33693,
+    "sha256": "f5aef679a6771b11e8a9ba6c69f01d99b30ae937fce6b8498a96e444ff43294a",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "f5aef679a6771b11e8a9ba6c69f01d99b30ae937fce6b8498a96e444ff43294a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js",
+    "file": "852a9038b033944e_iQIYI.js",
+    "status": "ok",
+    "bytes": 26739,
+    "sha256": "d89c064a84fb3e17e19eac30dbe39969dc321b57ff1a485fb526ec785fc431a7",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "d89c064a84fb3e17e19eac30dbe39969dc321b57ff1a485fb526ec785fc431a7"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/KuaiKan-DailyBonus/KKMH.js",
+    "file": "40a4b594fb7f0d73_KKMH.js",
+    "status": "ok",
+    "bytes": 15632,
+    "sha256": "a495149d183ba7ac1bf1b70ae0842143882e4346715dcefbcc3f77ad12a31d0a",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "a495149d183ba7ac1bf1b70ae0842143882e4346715dcefbcc3f77ad12a31d0a"
+  },
+  {
+    "url": "https://gist.githubusercontent.com/NobyDa/91cbe57dd50b3588a975af8922507a72/raw/JD_initial.js",
+    "file": "87a3d3d1202fa91e_JD_initial.js",
+    "status": "ok",
+    "bytes": 1587,
+    "sha256": "f27faa256a5f464142c467fef470a5f8a52f12cfa7c4da757a36cabd79737d0c",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "f27faa256a5f464142c467fef470a5f8a52f12cfa7c4da757a36cabd79737d0c"
+  },
+  {
+    "url": "https://gist.githubusercontent.com/NobyDa/830932e4526c9c84169020a56c3ef199/raw/GOOGLE_CAPTCHA_TEST_POLICY.js",
+    "file": "f034f063597bf8fe_GOOGLE_CAPTCHA_TEST_POLICY.js",
+    "status": "ok",
+    "bytes": 2979,
+    "sha256": "d1a76a3e667786913078cb00775dfa01ef6dbcc6a473cb398bcbfb02e8ee7de1",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "d1a76a3e667786913078cb00775dfa01ef6dbcc6a473cb398bcbfb02e8ee7de1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/Manga.js",
+    "file": "c683fd259fa40818_Manga.js",
+    "status": "ok",
+    "bytes": 19579,
+    "sha256": "149d53f4bd92eaa50678c04a5d35be68ee5573e10c6e9b5317f0d602a476e9a1",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "149d53f4bd92eaa50678c04a5d35be68ee5573e10c6e9b5317f0d602a476e9a1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/ExchangePoints.js",
+    "file": "c757e87787611947_ExchangePoints.js",
+    "status": "ok",
+    "bytes": 24064,
+    "sha256": "9c9b014dd1247e80a7639675cc1df62ed468e52f118ccc1ca64ce4fc05041cb9",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "9c9b014dd1247e80a7639675cc1df62ed468e52f118ccc1ca64ce4fc05041cb9"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js",
+    "file": "3245cd2f154be3d8_Bili_Auto_Regions.js",
+    "status": "ok",
+    "bytes": 21715,
+    "sha256": "077fcde6e6b8b201a68576fb68da959a381464b026ec52f740f9c42daa8da1aa",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "077fcde6e6b8b201a68576fb68da959a381464b026ec52f740f9c42daa8da1aa"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js",
+    "file": "335470c27800b55e_TestFlightAccount.js",
+    "status": "ok",
+    "bytes": 19268,
+    "sha256": "30fbd3001671beb349190fe0214b1a23f4628fec922ece2227247b2f31170d09",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "30fbd3001671beb349190fe0214b1a23f4628fec922ece2227247b2f31170d09"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js",
+    "file": "870512f6b0ab3cdd_JD_DailyBonus.js",
+    "status": "ok",
+    "bytes": 89770,
+    "sha256": "21dc2ffeef61c15682ae25a4c7f478ae8706bbd452babf7bc15c28e6cefc3bb6",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "21dc2ffeef61c15682ae25a4c7f478ae8706bbd452babf7bc15c28e6cefc3bb6"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Google_CAPTCHA.js",
+    "file": "a6c553d4befb748c_Google_CAPTCHA.js",
+    "status": "ok",
+    "bytes": 6624,
+    "sha256": "071501572cb154ee55f834f78c7ad6677caebcc55619ae28a03f6375315a162d",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "071501572cb154ee55f834f78c7ad6677caebcc55619ae28a03f6375315a162d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js",
+    "file": "9a7d57126705d5d5_TieBa.js",
+    "status": "ok",
+    "bytes": 10356,
+    "sha256": "1555853fac5929864972dc66e96628fd8af8486cd4a07fa163f8f084d698df17",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2,
+    "saved_sha256": "1555853fac5929864972dc66e96628fd8af8486cd4a07fa163f8f084d698df17"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/sazs34/TaskConfig/master/task/sign_baidu_tieba_v2.js",
+    "file": "0658b9ff59edfb81_sign_baidu_tieba_v2.js",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://raw.githubusercontent.com/sazs34/TaskConfig/master/task/sign_baidu_tieba_v2.js",
+    "group": "loonlab-plugins",
+    "references": [
+      "loonlab-plugins/dependencies/9960af0801a7be32_NobyDa_BoxJs.json"
+    ],
+    "depth": 2
+  }
+]

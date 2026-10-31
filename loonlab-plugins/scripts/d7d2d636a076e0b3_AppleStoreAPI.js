@@ -820,16 +820,16 @@ const main = async () => {
 			//["* as plist", "https://esm.sh/plist"],
 			[
 				"* as plist",
-				"https://raw.githubusercontent.com/xiaobailian67/Surge/refs/heads/main/plist-complete.js",
+				"https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/00bd3cc60a5cea28_plist-complete.js",
 			],
 			[
 				"express",
-				"https://raw.githubusercontent.com/xiaobailian67/Surge/refs/heads/main/SimpleExpressBeta.js",
+				"https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/187cde3ffbcd7e35_SimpleExpressBeta.js",
 			],
 			[
 				//测试版本
 				e => ({ name:e.name.slice(1) }),
-				"https://raw.githubusercontent.com/xiaobailian67/Surge/refs/heads/main/utils.js"
+				"https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/f6c393ae158dca06_utils.js"
 				//"https://fastly.jsdelivr.net/gh/xiaobailian67/Surge@10f23c92f47e654821460773e60ba7377a8e8760/utils.js"
 			]
 		);

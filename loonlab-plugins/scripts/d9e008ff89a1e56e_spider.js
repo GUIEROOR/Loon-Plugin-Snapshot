@@ -1,9 +1,9 @@
 const $ = new Env('XPTV-sources', { logLevel: 'info' })
 
 ;(async () => {
-    await importRemoteUtils('https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js', '', 'CryptoJS', 'crypto-js')
-    await importRemoteUtils('https://cdn.jsdelivr.net/gh/Yuheng0101/X@main/Utils/cheerio.js', 'createCheerio', 'cheerio')
-    await importRemoteUtils('https://cdn.jsdelivr.net/gh/Yuheng0101/X@main/Utils/Buffer.min.js', 'loadBuffer', 'Buffer')
+    await importRemoteUtils('https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/3f7df9a1f8184e70_crypto-js.min.js', '', 'CryptoJS', 'crypto-js')
+    await importRemoteUtils('https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/32cb8a016e05622e_cheerio.js', 'createCheerio', 'cheerio')
+    await importRemoteUtils('https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/f5b381dd4bd222b2_Buffer.min.js', 'loadBuffer', 'Buffer')
 
     const URI = new URIs()
     const { url } = $request
