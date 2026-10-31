@@ -2064,7 +2064,7 @@
           "descs": [
             "Surge: https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule",
             "QuanX: https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/2ceb140b5ec5fdf9_boxjs.rewrite.quanx.conf",
-            "Loon: https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.conf"
+            "Loon: https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/973ec7cd7708a06e_boxjs.rewrite.loon.plugin"
           ]
         },
         {
@@ -2220,7 +2220,7 @@
           "name": "调整",
           "descs": [
             "迁移 腾讯新闻 至原作者订阅: @Sunert",
-            "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json"
+            "https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/ec8bd54bf9d5da90_sunert.boxjs.json"
           ]
         }
       ]

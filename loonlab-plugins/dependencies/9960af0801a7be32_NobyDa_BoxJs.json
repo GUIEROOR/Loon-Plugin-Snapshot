@@ -380,7 +380,7 @@
             ],
             "script": "https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/9a7d57126705d5d5_TieBa.js",
             "author": "@sazs34, @NobyDa",
-            "repo": "https://github.com/sazs34/TaskConfig/blob/master/task/sign_baidu_tieba_v2.js",
+            "repo": "https://raw.githubusercontent.com/GUIEROOR/Loon-Plugin-Snapshot/main/loonlab-plugins/dependencies/13c61c17421d3a1f_sign_baidu_tieba_v2.js",
             "icons": [
                 "https://raw.githubusercontent.com/NobyDa/mini/master/Alpha/tieba.png",
                 "https://raw.githubusercontent.com/NobyDa/mini/master/Color/tieba.png"
